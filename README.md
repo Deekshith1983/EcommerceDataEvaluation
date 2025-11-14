@@ -101,6 +101,5 @@ Ecommerce-Data/
 │
 ├── load_data_to_sqlite.py     # Database creation & ETL script
 ├── generate_report.py         # SQL query & reporting script
-│
-└── ecommerce_report.csv       # Final output report
+
 ```
