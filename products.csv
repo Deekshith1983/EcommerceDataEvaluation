@@ -1,0 +1,501 @@
+product_id,product_name,category,price,stock_qty
+1,Classic T-Shirt,Home & Kitchen,8623.85,325
+2,Premium Backpack,Grocery,1914.2,479
+3,Eco Backpack,Toys,4925.32,43
+4,Comfort Shoes,Beauty,4837.66,443
+5,Wireless Watch,Beauty,6082.96,75
+6,Ultra Shoes,Grocery,8192.77,417
+7,Portable Backpack,Fashion,7944.07,282
+8,Comfort Keyboard,Grocery,2460.9,134
+9,Ultra Mixer,Toys,3898.78,184
+10,Classic Book,Grocery,7863.71,232
+11,Pro Backpack,Books,1812.55,352
+12,Portable Book,Toys,1230.8,315
+13,Comfort Backpack,Fashion,8237.03,100
+14,Premium Keyboard,Fashion,6021.77,360
+15,Pro Keyboard,Beauty,4992.52,348
+16,Smart Shoes,Books,8187.63,464
+17,Pro Headphones,Home & Kitchen,6641.73,241
+18,Ultra Watch,Grocery,6193.16,238
+19,Classic T-Shirt,Beauty,3066.38,416
+20,Premium Keyboard,Beauty,9902.86,308
+21,Smart Book,Grocery,8490.6,446
+22,Premium Headphones,Beauty,9019.65,37
+23,Smart Lamp,Beauty,1185.01,154
+24,Smart T-Shirt,Grocery,7051.0,211
+25,Eco Keyboard,Grocery,3876.49,289
+26,Classic Mixer,Toys,1475.78,294
+27,Digital Backpack,Grocery,1626.25,456
+28,Wireless Mixer,Electronics,809.29,18
+29,Wireless Bottle,Grocery,9751.25,79
+30,Portable Mixer,Grocery,8614.51,467
+31,Pro Keyboard,Home & Kitchen,4597.5,227
+32,Ultra Bottle,Grocery,3616.54,105
+33,Digital Book,Electronics,5820.59,443
+34,Classic Lamp,Sports,4166.29,289
+35,Pro Backpack,Electronics,9783.51,300
+36,Comfort Backpack,Fashion,5843.66,363
+37,Portable Mixer,Sports,4701.87,50
+38,Ultra Book,Fashion,2526.79,332
+39,Portable Lamp,Sports,6168.09,472
+40,Eco Lamp,Electronics,4740.8,272
+41,Comfort Book,Beauty,4267.06,418
+42,Premium Watch,Home & Kitchen,448.73,482
+43,Pro Watch,Sports,707.04,252
+44,Pro Mixer,Electronics,6596.57,159
+45,Pro Headphones,Sports,4898.13,74
+46,Ultra Shoes,Sports,2594.3,325
+47,Premium Watch,Sports,239.61,67
+48,Pro Mixer,Home & Kitchen,6624.64,199
+49,Wireless Watch,Books,4899.69,419
+50,Ultra Headphones,Beauty,9841.31,84
+51,Pro Mixer,Toys,7551.34,221
+52,Digital T-Shirt,Toys,7286.39,95
+53,Classic Book,Beauty,636.83,145
+54,Portable Headphones,Home & Kitchen,4692.75,253
+55,Premium Bottle,Books,3859.03,371
+56,Digital Bottle,Sports,1535.98,455
+57,Digital Headphones,Sports,9278.5,239
+58,Digital Backpack,Electronics,1062.91,282
+59,Eco Keyboard,Sports,3415.18,146
+60,Portable Watch,Grocery,4663.98,355
+61,Classic Book,Books,5246.53,356
+62,Wireless Backpack,Electronics,6759.74,435
+63,Portable Headphones,Grocery,1066.22,63
+64,Comfort Backpack,Books,7278.98,138
+65,Classic Headphones,Electronics,6231.03,39
+66,Pro T-Shirt,Fashion,7108.94,71
+67,Portable Book,Home & Kitchen,3820.99,401
+68,Pro Mixer,Fashion,6985.97,139
+69,Premium Bottle,Fashion,6422.93,482
+70,Premium Keyboard,Beauty,2646.63,409
+71,Portable Watch,Electronics,3888.71,180
+72,Smart Watch,Sports,1860.5,45
+73,Comfort T-Shirt,Grocery,1865.58,261
+74,Portable Mixer,Grocery,2261.03,339
+75,Portable Bottle,Sports,1121.54,47
+76,Portable Book,Sports,7793.65,19
+77,Comfort Mixer,Electronics,9334.65,350
+78,Digital Watch,Home & Kitchen,7029.55,473
+79,Digital Book,Electronics,5201.29,491
+80,Comfort Bottle,Grocery,4097.74,382
+81,Portable Lamp,Books,131.74,498
+82,Comfort Shoes,Beauty,3400.05,165
+83,Digital Headphones,Fashion,3716.02,446
+84,Eco Shoes,Toys,7627.49,158
+85,Classic Mixer,Electronics,9677.38,348
+86,Classic Watch,Grocery,8973.96,332
+87,Eco Bottle,Fashion,8862.62,234
+88,Classic Mixer,Electronics,2010.62,378
+89,Pro T-Shirt,Toys,3947.8,415
+90,Ultra Watch,Toys,5385.01,437
+91,Comfort Headphones,Electronics,3457.92,182
+92,Smart Keyboard,Fashion,2194.61,344
+93,Ultra Bottle,Home & Kitchen,7435.41,129
+94,Portable Headphones,Home & Kitchen,4939.06,19
+95,Comfort Book,Electronics,2501.56,342
+96,Wireless Headphones,Home & Kitchen,6362.35,473
+97,Premium Shoes,Toys,6150.14,437
+98,Pro Shoes,Fashion,1229.38,314
+99,Pro T-Shirt,Fashion,8063.09,228
+100,Eco Keyboard,Beauty,1294.94,360
+101,Pro Lamp,Home & Kitchen,3282.74,416
+102,Classic Headphones,Home & Kitchen,3420.49,71
+103,Premium Mixer,Grocery,1762.7,199
+104,Ultra Mixer,Toys,2511.08,307
+105,Smart Mixer,Fashion,7930.42,333
+106,Pro Keyboard,Home & Kitchen,253.74,259
+107,Portable Headphones,Electronics,1875.19,55
+108,Pro Watch,Grocery,6964.68,415
+109,Comfort Mixer,Books,1515.57,148
+110,Ultra Bottle,Grocery,2467.61,99
+111,Pro Headphones,Home & Kitchen,7199.27,323
+112,Portable Watch,Beauty,4244.98,295
+113,Classic T-Shirt,Fashion,9866.37,58
+114,Pro Backpack,Books,4694.74,330
+115,Classic Watch,Electronics,2016.82,417
+116,Wireless Bottle,Toys,1844.61,353
+117,Smart Headphones,Beauty,2921.14,232
+118,Premium Backpack,Toys,527.84,389
+119,Smart Lamp,Home & Kitchen,1663.65,24
+120,Comfort Lamp,Fashion,800.51,130
+121,Comfort Book,Beauty,4247.76,392
+122,Eco T-Shirt,Fashion,3327.71,60
+123,Classic Keyboard,Books,3816.77,122
+124,Portable Bottle,Toys,636.96,233
+125,Wireless T-Shirt,Toys,1861.8,201
+126,Wireless Bottle,Books,6356.01,148
+127,Classic Backpack,Home & Kitchen,416.74,301
+128,Smart Watch,Home & Kitchen,1198.98,248
+129,Comfort Keyboard,Home & Kitchen,7626.36,122
+130,Premium Book,Home & Kitchen,7915.51,336
+131,Pro Mixer,Books,955.1,448
+132,Ultra Bottle,Books,5955.65,438
+133,Comfort Watch,Electronics,7326.18,386
+134,Classic T-Shirt,Beauty,4398.06,123
+135,Pro Mixer,Electronics,4234.94,32
+136,Smart Bottle,Electronics,4313.41,211
+137,Comfort Shoes,Toys,5002.32,52
+138,Ultra Headphones,Grocery,9503.35,77
+139,Eco Watch,Books,6510.64,56
+140,Smart Bottle,Sports,1700.85,245
+141,Pro Book,Electronics,9765.57,247
+142,Wireless Keyboard,Home & Kitchen,7918.6,199
+143,Comfort Headphones,Fashion,3909.3,363
+144,Eco Lamp,Electronics,3035.24,395
+145,Premium Book,Books,7897.15,51
+146,Pro Backpack,Electronics,5194.89,475
+147,Eco Headphones,Fashion,3890.25,248
+148,Pro Headphones,Beauty,3726.69,341
+149,Ultra Shoes,Books,1469.22,181
+150,Classic Lamp,Fashion,6524.48,387
+151,Pro T-Shirt,Books,3271.59,469
+152,Premium Lamp,Grocery,2842.74,42
+153,Eco Backpack,Toys,4912.65,279
+154,Portable Bottle,Sports,4573.59,198
+155,Portable T-Shirt,Toys,963.36,210
+156,Wireless Watch,Fashion,1181.71,151
+157,Portable Mixer,Toys,1588.93,114
+158,Ultra Headphones,Sports,4222.71,359
+159,Ultra Mixer,Toys,3531.33,237
+160,Smart Watch,Books,722.2,456
+161,Classic Lamp,Beauty,4174.75,185
+162,Eco Bottle,Toys,4633.27,300
+163,Wireless Watch,Home & Kitchen,7912.75,126
+164,Comfort Backpack,Sports,7719.52,34
+165,Wireless Backpack,Sports,4612.67,95
+166,Pro Mixer,Sports,1903.58,99
+167,Wireless Mixer,Books,1256.48,172
+168,Pro Mixer,Toys,2677.03,104
+169,Classic Lamp,Electronics,6687.98,186
+170,Wireless Backpack,Toys,5443.68,93
+171,Ultra Watch,Fashion,9211.3,217
+172,Comfort Mixer,Toys,9284.33,89
+173,Smart Lamp,Beauty,6506.72,161
+174,Comfort Watch,Home & Kitchen,8014.8,383
+175,Comfort Backpack,Fashion,7342.24,470
+176,Smart Mixer,Fashion,3149.01,215
+177,Pro T-Shirt,Toys,3637.2,177
+178,Smart Book,Books,5874.97,123
+179,Premium T-Shirt,Electronics,926.54,444
+180,Comfort Shoes,Grocery,2024.06,172
+181,Pro Book,Electronics,9092.62,194
+182,Digital Mixer,Grocery,3758.34,200
+183,Smart Watch,Beauty,3577.41,238
+184,Ultra Shoes,Books,7304.75,237
+185,Digital Bottle,Sports,1720.52,382
+186,Digital Keyboard,Home & Kitchen,8370.56,316
+187,Portable Mixer,Books,3100.99,454
+188,Ultra Backpack,Fashion,9337.21,312
+189,Digital Shoes,Electronics,4152.66,478
+190,Premium Keyboard,Home & Kitchen,5601.56,373
+191,Pro Mixer,Books,1940.46,205
+192,Premium Lamp,Toys,517.11,433
+193,Premium Book,Sports,4990.59,388
+194,Comfort T-Shirt,Electronics,7932.07,88
+195,Premium Watch,Toys,1328.35,350
+196,Premium Keyboard,Home & Kitchen,4968.68,362
+197,Classic Headphones,Fashion,7669.71,262
+198,Portable Book,Beauty,5851.55,299
+199,Digital Watch,Toys,9744.16,428
+200,Portable Backpack,Electronics,8467.27,93
+201,Pro Headphones,Home & Kitchen,3263.84,459
+202,Wireless Backpack,Home & Kitchen,622.59,194
+203,Digital Backpack,Electronics,2968.58,281
+204,Portable Lamp,Books,7686.78,103
+205,Portable Book,Home & Kitchen,5481.75,456
+206,Eco Watch,Sports,6884.89,362
+207,Eco Shoes,Beauty,8249.82,16
+208,Wireless Lamp,Sports,3791.84,258
+209,Digital Backpack,Home & Kitchen,1112.94,89
+210,Ultra T-Shirt,Books,7970.56,296
+211,Pro Lamp,Fashion,4230.73,479
+212,Portable Shoes,Home & Kitchen,9240.76,255
+213,Eco Watch,Beauty,1475.24,236
+214,Pro Lamp,Beauty,1803.85,165
+215,Smart Shoes,Books,1373.27,365
+216,Wireless T-Shirt,Sports,1339.91,76
+217,Portable Keyboard,Fashion,868.58,406
+218,Comfort Keyboard,Electronics,2042.87,26
+219,Ultra Book,Electronics,4742.92,475
+220,Premium Headphones,Fashion,3085.29,15
+221,Portable Shoes,Books,5916.27,112
+222,Wireless Backpack,Electronics,997.72,443
+223,Premium Book,Beauty,3585.81,447
+224,Ultra Book,Books,5097.6,44
+225,Portable Book,Electronics,5334.5,376
+226,Classic Watch,Home & Kitchen,9025.44,285
+227,Smart Shoes,Books,9211.72,445
+228,Comfort Backpack,Home & Kitchen,4451.69,500
+229,Portable Mixer,Beauty,9813.88,227
+230,Classic Lamp,Books,4134.02,399
+231,Eco Shoes,Toys,1191.13,79
+232,Comfort Backpack,Sports,5614.61,30
+233,Portable Backpack,Toys,1244.65,155
+234,Comfort Book,Sports,6900.76,440
+235,Comfort T-Shirt,Grocery,2975.83,447
+236,Digital T-Shirt,Fashion,8957.07,420
+237,Comfort Backpack,Home & Kitchen,225.58,355
+238,Comfort Shoes,Grocery,4435.78,347
+239,Portable Shoes,Home & Kitchen,4007.63,365
+240,Pro Shoes,Home & Kitchen,739.63,111
+241,Eco T-Shirt,Grocery,1314.35,439
+242,Digital Bottle,Sports,7670.69,402
+243,Pro Book,Sports,7586.4,420
+244,Digital Backpack,Toys,6699.1,496
+245,Digital Bottle,Sports,1558.0,242
+246,Portable Shoes,Sports,4943.48,128
+247,Wireless Headphones,Fashion,7403.2,435
+248,Portable Bottle,Electronics,9722.52,205
+249,Pro Backpack,Home & Kitchen,3096.25,329
+250,Portable Shoes,Toys,7947.04,113
+251,Premium Bottle,Toys,5096.47,287
+252,Eco Lamp,Electronics,9529.55,26
+253,Digital Shoes,Grocery,4555.14,446
+254,Digital Bottle,Toys,455.21,100
+255,Ultra Watch,Home & Kitchen,4964.65,78
+256,Premium Keyboard,Toys,7662.71,301
+257,Comfort Lamp,Toys,4810.52,447
+258,Wireless Lamp,Electronics,3973.71,263
+259,Pro Keyboard,Beauty,7687.06,155
+260,Eco Headphones,Electronics,5944.59,75
+261,Eco Backpack,Electronics,7674.42,330
+262,Eco Keyboard,Fashion,4337.67,192
+263,Digital Backpack,Electronics,6645.28,136
+264,Classic Watch,Fashion,9111.85,43
+265,Premium Shoes,Beauty,1779.81,285
+266,Eco Headphones,Toys,6610.9,226
+267,Pro Lamp,Grocery,2738.53,366
+268,Comfort Book,Electronics,9858.07,203
+269,Pro Keyboard,Beauty,5767.13,423
+270,Comfort Shoes,Books,3425.08,267
+271,Eco Mixer,Sports,3696.01,233
+272,Classic Bottle,Fashion,8418.77,284
+273,Classic Watch,Sports,569.56,303
+274,Digital T-Shirt,Fashion,7204.3,306
+275,Portable Book,Beauty,2805.31,300
+276,Ultra Bottle,Grocery,2175.42,417
+277,Portable Watch,Sports,4384.81,286
+278,Eco T-Shirt,Grocery,4081.78,329
+279,Ultra Bottle,Home & Kitchen,8819.88,331
+280,Ultra Mixer,Toys,2207.23,431
+281,Comfort Watch,Grocery,9351.9,382
+282,Smart Lamp,Books,3705.32,85
+283,Classic Mixer,Sports,8455.81,220
+284,Eco Shoes,Books,8474.07,146
+285,Premium Mixer,Sports,6898.86,130
+286,Digital T-Shirt,Fashion,1583.63,24
+287,Classic Watch,Toys,4904.29,233
+288,Digital Headphones,Books,1676.65,79
+289,Smart Watch,Sports,6619.84,100
+290,Smart Bottle,Electronics,646.74,469
+291,Portable Backpack,Sports,8684.0,471
+292,Digital Backpack,Fashion,4028.26,439
+293,Wireless T-Shirt,Fashion,5751.64,266
+294,Portable Lamp,Sports,5013.87,56
+295,Classic Book,Fashion,7753.59,170
+296,Eco Book,Grocery,8076.83,390
+297,Classic Keyboard,Books,1527.35,99
+298,Classic Watch,Toys,4141.92,451
+299,Pro Headphones,Toys,5380.35,368
+300,Portable Backpack,Grocery,4800.06,136
+301,Premium Mixer,Beauty,4803.7,198
+302,Premium Headphones,Electronics,8429.58,349
+303,Smart T-Shirt,Sports,5571.01,168
+304,Eco Shoes,Books,8589.71,208
+305,Smart Keyboard,Sports,3077.79,489
+306,Classic Watch,Books,8607.23,92
+307,Comfort Backpack,Grocery,7913.24,150
+308,Portable Bottle,Toys,7394.73,484
+309,Eco Keyboard,Fashion,8260.57,367
+310,Premium Lamp,Fashion,3582.38,318
+311,Ultra Backpack,Toys,6981.58,400
+312,Smart Mixer,Toys,7930.09,79
+313,Smart Keyboard,Books,6319.13,170
+314,Pro Shoes,Fashion,1661.44,274
+315,Wireless Book,Grocery,7946.16,173
+316,Comfort Bottle,Home & Kitchen,2679.73,361
+317,Pro Backpack,Sports,2065.77,222
+318,Eco Mixer,Grocery,8775.26,493
+319,Pro T-Shirt,Electronics,9485.28,482
+320,Ultra Book,Books,9076.76,246
+321,Classic Watch,Home & Kitchen,591.85,326
+322,Digital Book,Sports,1576.59,500
+323,Eco Mixer,Fashion,238.74,279
+324,Digital Bottle,Toys,1272.27,375
+325,Classic T-Shirt,Sports,2949.82,263
+326,Digital Mixer,Grocery,8576.74,317
+327,Classic Watch,Books,4240.48,219
+328,Wireless Headphones,Sports,9762.67,130
+329,Pro Bottle,Books,3758.41,360
+330,Comfort Shoes,Electronics,4740.93,456
+331,Eco Keyboard,Books,7161.03,372
+332,Digital Book,Sports,822.25,295
+333,Smart Headphones,Beauty,9316.54,251
+334,Eco Book,Electronics,152.07,268
+335,Pro Keyboard,Sports,9776.49,353
+336,Eco Mixer,Electronics,5845.82,143
+337,Wireless Lamp,Toys,9309.24,459
+338,Comfort Mixer,Fashion,3240.44,281
+339,Digital Mixer,Sports,1255.74,32
+340,Wireless Bottle,Sports,7502.45,484
+341,Digital Watch,Sports,6167.02,399
+342,Premium Lamp,Beauty,4413.18,94
+343,Eco Bottle,Home & Kitchen,5600.18,482
+344,Comfort Headphones,Books,1570.35,127
+345,Wireless Headphones,Toys,2675.22,371
+346,Comfort Keyboard,Fashion,9951.5,484
+347,Comfort Headphones,Toys,3628.55,373
+348,Ultra Bottle,Toys,4979.59,443
+349,Wireless Shoes,Beauty,1025.42,454
+350,Premium Mixer,Home & Kitchen,7523.37,431
+351,Premium Book,Books,5876.12,12
+352,Ultra Book,Home & Kitchen,4221.55,49
+353,Classic Bottle,Fashion,8883.94,23
+354,Premium Shoes,Grocery,3797.23,485
+355,Portable Backpack,Home & Kitchen,384.86,245
+356,Comfort Bottle,Sports,5981.62,12
+357,Eco Headphones,Toys,3315.66,384
+358,Pro Mixer,Books,8645.46,420
+359,Premium Backpack,Electronics,7462.62,290
+360,Pro Keyboard,Fashion,4047.7,101
+361,Classic Keyboard,Fashion,302.07,116
+362,Wireless Keyboard,Grocery,2919.87,395
+363,Wireless Shoes,Sports,4958.37,231
+364,Premium Book,Home & Kitchen,3653.54,59
+365,Eco Lamp,Books,4946.27,463
+366,Digital Bottle,Sports,5673.27,226
+367,Portable Keyboard,Beauty,6176.29,232
+368,Digital Shoes,Electronics,5181.08,247
+369,Classic Mixer,Toys,5319.06,341
+370,Ultra Shoes,Sports,4734.37,50
+371,Comfort Watch,Home & Kitchen,9842.44,360
+372,Premium T-Shirt,Grocery,3024.27,34
+373,Ultra Shoes,Electronics,5181.8,271
+374,Digital Keyboard,Fashion,4699.1,378
+375,Pro Watch,Beauty,2622.12,51
+376,Ultra Headphones,Fashion,7430.11,246
+377,Wireless Mixer,Grocery,547.06,223
+378,Premium Backpack,Toys,7596.81,240
+379,Pro Watch,Beauty,9669.52,456
+380,Wireless T-Shirt,Home & Kitchen,873.38,319
+381,Premium Shoes,Grocery,5389.32,12
+382,Digital Shoes,Electronics,1799.18,254
+383,Comfort Keyboard,Toys,3096.72,426
+384,Pro Backpack,Grocery,8064.94,54
+385,Wireless Mixer,Electronics,1987.94,427
+386,Smart T-Shirt,Electronics,2170.37,342
+387,Wireless T-Shirt,Grocery,8435.69,449
+388,Ultra T-Shirt,Fashion,3078.09,247
+389,Wireless Bottle,Grocery,314.99,95
+390,Wireless Bottle,Toys,4766.74,450
+391,Comfort Book,Books,2092.25,301
+392,Digital Headphones,Beauty,176.96,332
+393,Digital Keyboard,Toys,7396.08,315
+394,Ultra Watch,Electronics,4925.22,258
+395,Ultra Book,Toys,2394.87,41
+396,Ultra Headphones,Grocery,5805.39,293
+397,Portable Watch,Grocery,8901.49,69
+398,Comfort Book,Beauty,4537.42,233
+399,Smart Mixer,Sports,7288.47,250
+400,Eco Bottle,Books,5124.6,310
+401,Eco Book,Toys,1397.47,160
+402,Digital Keyboard,Beauty,7979.13,419
+403,Wireless Book,Books,2895.33,393
+404,Portable Bottle,Home & Kitchen,1814.58,90
+405,Pro Bottle,Fashion,7954.48,492
+406,Comfort Watch,Books,2172.39,34
+407,Smart Backpack,Sports,3633.73,91
+408,Wireless Lamp,Electronics,8086.47,182
+409,Digital Shoes,Books,1293.81,124
+410,Comfort Watch,Beauty,7869.37,403
+411,Smart Lamp,Sports,8972.55,446
+412,Ultra Book,Fashion,7092.41,484
+413,Comfort Bottle,Fashion,9748.13,410
+414,Pro Book,Fashion,8252.74,31
+415,Ultra Shoes,Home & Kitchen,6335.27,455
+416,Classic Backpack,Home & Kitchen,7309.66,372
+417,Comfort Lamp,Toys,7351.26,60
+418,Wireless Backpack,Beauty,8208.69,72
+419,Classic Bottle,Grocery,7714.27,13
+420,Classic Bottle,Beauty,2937.91,97
+421,Portable Watch,Beauty,7179.48,222
+422,Eco T-Shirt,Home & Kitchen,7555.74,281
+423,Digital T-Shirt,Home & Kitchen,8036.51,221
+424,Digital Bottle,Beauty,9442.03,236
+425,Wireless Headphones,Fashion,938.3,171
+426,Digital Mixer,Grocery,707.54,398
+427,Smart Mixer,Electronics,9778.56,375
+428,Ultra Watch,Grocery,4078.83,358
+429,Ultra Watch,Beauty,9100.39,14
+430,Premium Lamp,Home & Kitchen,7031.92,238
+431,Classic Lamp,Toys,7003.96,464
+432,Digital T-Shirt,Sports,933.38,285
+433,Eco Keyboard,Home & Kitchen,5251.65,286
+434,Premium T-Shirt,Fashion,5164.55,169
+435,Ultra Backpack,Home & Kitchen,330.88,465
+436,Ultra Book,Sports,2488.26,406
+437,Premium Keyboard,Fashion,7345.66,440
+438,Eco Watch,Beauty,1324.75,397
+439,Portable Bottle,Sports,5766.11,12
+440,Comfort Backpack,Books,8072.34,307
+441,Pro Lamp,Books,3567.34,155
+442,Pro Mixer,Grocery,5243.7,136
+443,Portable Backpack,Books,8245.14,194
+444,Comfort Shoes,Home & Kitchen,7144.24,434
+445,Digital Shoes,Fashion,714.72,464
+446,Wireless Bottle,Books,4516.02,199
+447,Ultra Keyboard,Grocery,8731.95,309
+448,Comfort Keyboard,Toys,6920.28,495
+449,Comfort Keyboard,Home & Kitchen,1528.03,75
+450,Comfort Bottle,Home & Kitchen,9682.51,272
+451,Ultra Shoes,Books,4607.78,26
+452,Wireless Lamp,Beauty,9223.8,70
+453,Pro Keyboard,Fashion,1295.58,302
+454,Premium Headphones,Home & Kitchen,1264.65,166
+455,Eco Watch,Sports,4909.66,415
+456,Wireless Mixer,Grocery,580.65,467
+457,Premium Watch,Books,1911.46,388
+458,Comfort Headphones,Fashion,5519.62,44
+459,Smart Keyboard,Toys,5772.29,299
+460,Comfort Backpack,Grocery,4803.75,378
+461,Pro Mixer,Home & Kitchen,5096.16,245
+462,Comfort Bottle,Home & Kitchen,8675.82,176
+463,Portable Book,Grocery,3932.63,470
+464,Digital Backpack,Electronics,9583.99,465
+465,Comfort Watch,Fashion,8671.94,372
+466,Smart Book,Sports,5653.34,73
+467,Ultra Shoes,Books,9555.17,287
+468,Pro Headphones,Books,7529.53,267
+469,Smart Shoes,Home & Kitchen,9626.53,150
+470,Classic T-Shirt,Toys,937.01,283
+471,Pro Backpack,Grocery,5929.04,261
+472,Smart Backpack,Grocery,1886.03,22
+473,Ultra Backpack,Grocery,2645.06,68
+474,Portable Lamp,Home & Kitchen,2923.98,103
+475,Premium Shoes,Home & Kitchen,3136.26,218
+476,Wireless Headphones,Beauty,1895.43,375
+477,Smart Watch,Grocery,1076.57,82
+478,Digital Backpack,Sports,3816.58,433
+479,Portable Headphones,Books,2471.27,315
+480,Pro T-Shirt,Toys,5134.35,268
+481,Digital Shoes,Sports,699.26,247
+482,Ultra Keyboard,Fashion,4892.3,218
+483,Classic Headphones,Sports,5584.35,310
+484,Portable T-Shirt,Home & Kitchen,3114.67,218
+485,Comfort Shoes,Books,7849.53,82
+486,Eco Lamp,Home & Kitchen,7841.03,285
+487,Digital Lamp,Toys,512.74,426
+488,Comfort Book,Sports,6564.28,95
+489,Smart Headphones,Toys,2804.7,138
+490,Digital Backpack,Books,5892.08,271
+491,Premium Headphones,Home & Kitchen,7416.91,298
+492,Portable Watch,Fashion,4012.52,72
+493,Wireless Lamp,Sports,8793.97,117
+494,Pro Lamp,Beauty,8849.92,494
+495,Eco Watch,Toys,2801.83,349
+496,Eco Backpack,Books,4651.01,316
+497,Eco Headphones,Home & Kitchen,6498.79,11
+498,Pro Bottle,Electronics,9023.31,354
+499,Wireless Keyboard,Toys,7647.41,285
+500,Portable Shoes,Electronics,8935.46,427
