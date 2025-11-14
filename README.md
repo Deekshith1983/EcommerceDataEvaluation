@@ -176,6 +176,7 @@ Press `Ctrl+C` in the terminal to stop the server.
 ## Tools & Technologies Used
 
 | Tool |  Purpose |
+|------|---------|
 | **Python** |  Programming language |
 | **pandas** |  CSV handling and data operations |
 | **SQLite3** |  Database management |
