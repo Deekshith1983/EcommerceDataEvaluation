@@ -54,10 +54,7 @@ print(f"Unique Products: {df['product_name'].nunique()}")
 print(f"\nShipping Status Distribution:")
 print(df['shipping_status'].value_counts().to_string())
 
-# Save to CSV
-output_file = 'ecommerce_report.csv'
-df.to_csv(output_file, index=False)
-print(f"\n✓ Full report saved to: {output_file}")
+
 
 # Close connection
 conn.close()
