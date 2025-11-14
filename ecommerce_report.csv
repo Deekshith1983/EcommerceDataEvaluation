@@ -1,0 +1,1001 @@
+customer_name,city,order_id,order_date,product_name,quantity,item_price,total_amount,shipping_status,delivery_date
+Deepak Yadav,Lucknow,1,2024-03-31,Digital Backpack,3,1532.57,94457.52,Shipped,2024-04-04
+Deepak Yadav,Lucknow,1,2024-03-31,Smart Headphones,3,9563.77,94457.52,Shipped,2024-04-04
+Deepak Yadav,Lucknow,1,2024-03-31,Digital Book,5,5596.48,94457.52,Shipped,2024-04-04
+Deepak Yadav,Lucknow,1,2024-03-31,Smart Keyboard,5,6637.22,94457.52,Shipped,2024-04-04
+Vikram Chopra,Hyderabad,2,2024-01-21,Comfort Shoes,5,3208.16,25846.54,Pending,2024-01-31
+Vikram Chopra,Hyderabad,2,2024-01-21,Wireless Watch,2,4902.87,25846.54,Pending,2024-01-31
+Kavya Shetty,Pune,3,2024-02-01,Pro Mixer,4,4619.85,19836.92,Cancelled,2024-02-05
+Kavya Shetty,Pune,3,2024-02-01,Smart Watch,2,678.76,19836.92,Cancelled,2024-02-05
+Kavya Das,Lucknow,4,2024-12-14,Eco Shoes,5,8366.16,41830.8,Cancelled,2024-12-21
+Meera Singh,Jaipur,5,2024-04-18,Premium Headphones,1,7479.76,23819.38,Delivered,2024-04-23
+Meera Singh,Jaipur,5,2024-04-18,Premium Lamp,1,2806.06,23819.38,Delivered,2024-04-23
+Meera Singh,Jaipur,5,2024-04-18,Comfort Shoes,4,3383.39,23819.38,Delivered,2024-04-23
+Vikram Verma,Bengaluru,6,2023-07-17,Wireless Lamp,4,9105.33,52415.59,Delivered,2023-07-19
+Vikram Verma,Bengaluru,6,2023-07-17,Digital Headphones,5,1575.57,52415.59,Delivered,2023-07-19
+Vikram Verma,Bengaluru,6,2023-07-17,Portable Book,2,4058.21,52415.59,Delivered,2023-07-19
+Ritu Ghosh,Kolkata,7,2023-08-15,Comfort Book,1,1938.34,30363.54,Cancelled,2023-08-19
+Ritu Ghosh,Kolkata,7,2023-08-15,Digital Backpack,4,3746.05,30363.54,Cancelled,2023-08-19
+Ritu Ghosh,Kolkata,7,2023-08-15,Comfort Headphones,2,1560.35,30363.54,Cancelled,2023-08-19
+Ritu Ghosh,Kolkata,7,2023-08-15,Digital Headphones,3,3440.1,30363.54,Cancelled,2023-08-19
+Sneha Reddy,Hyderabad,8,2023-10-15,Portable Mixer,3,2282.35,6847.05,In Transit,2023-10-22
+Anita Patel,Hyderabad,9,2023-04-03,Comfort Bottle,4,2467.32,46410.73,In Transit,2023-04-09
+Anita Patel,Hyderabad,9,2023-04-03,Comfort Backpack,4,5370.46,46410.73,In Transit,2023-04-09
+Anita Patel,Hyderabad,9,2023-04-03,Ultra Bottle,3,5019.87,46410.73,In Transit,2023-04-09
+Rahul Chopra,Ahmedabad,11,2024-05-20,Ultra Mixer,2,3803.42,41002.72,In Transit,2024-05-27
+Rahul Chopra,Ahmedabad,11,2024-05-20,Portable Book,4,8348.97,41002.72,In Transit,2024-05-27
+Sneha Khan,Chennai,12,2023-10-15,Portable Shoes,1,9215.84,12082.16,Pending,2023-10-19
+Sneha Khan,Chennai,12,2023-10-15,Portable T-Shirt,3,955.44,12082.16,Pending,2023-10-19
+Rohan Reddy,Lucknow,13,2024-12-21,Premium Shoes,2,5910.37,13002.56,Shipped,2024-12-27
+Rohan Reddy,Lucknow,13,2024-12-21,Eco Mixer,1,224.58,13002.56,Shipped,2024-12-27
+Rohan Reddy,Lucknow,13,2024-12-21,Premium Backpack,2,478.62,13002.56,Shipped,2024-12-27
+Pooja Naidu,Mumbai,14,2023-01-08,Eco Headphones,4,3230.57,40303.92,Shipped,2023-01-11
+Pooja Naidu,Mumbai,14,2023-01-08,Digital Book,3,5555.78,40303.92,Shipped,2023-01-11
+Pooja Naidu,Mumbai,14,2023-01-08,Premium Keyboard,2,5357.15,40303.92,Shipped,2023-01-11
+Meera Shetty,Mumbai,15,2024-10-15,Comfort Backpack,5,7245.43,36227.15,In Transit,2024-10-22
+Arjun Iyer,Mumbai,16,2023-10-12,Portable Book,1,2815.41,10067.95,Cancelled,2023-10-20
+Arjun Iyer,Mumbai,16,2023-10-12,Eco Keyboard,2,3626.27,10067.95,Cancelled,2023-10-20
+Tanvi Shetty,Jaipur,17,2024-05-20,Portable Bottle,4,6747.54,70832.29,Pending,2024-05-25
+Tanvi Shetty,Jaipur,17,2024-05-20,Comfort Watch,4,7631.5,70832.29,Pending,2024-05-25
+Tanvi Shetty,Jaipur,17,2024-05-20,Eco T-Shirt,3,4438.71,70832.29,Pending,2024-05-25
+Rahul Verma,Chennai,18,2023-07-18,Pro Mixer,1,6604.68,77402.27,Shipped,2023-07-22
+Rahul Verma,Chennai,18,2023-07-18,Eco Keyboard,5,7081.51,77402.27,Shipped,2023-07-22
+Rahul Verma,Chennai,18,2023-07-18,Smart Mixer,4,8847.51,77402.27,Shipped,2023-07-22
+Sanjay Iyer,Kolkata,19,2024-11-29,Portable Headphones,4,2665.26,39699.4,Cancelled,2024-12-04
+Sanjay Iyer,Kolkata,19,2024-11-29,Eco Keyboard,1,5519.61,39699.4,Cancelled,2024-12-04
+Sanjay Iyer,Kolkata,19,2024-11-29,Wireless Backpack,5,4703.75,39699.4,Cancelled,2024-12-04
+Isha Shetty,Hyderabad,20,2023-06-29,Ultra Mixer,2,2405.23,25032.33,In Transit,2023-07-08
+Isha Shetty,Hyderabad,20,2023-06-29,Comfort Book,5,2681.96,25032.33,In Transit,2023-07-08
+Isha Shetty,Hyderabad,20,2023-06-29,Wireless Backpack,1,1084.0,25032.33,In Transit,2023-07-08
+Isha Shetty,Hyderabad,20,2023-06-29,Premium Keyboard,1,5728.07,25032.33,In Transit,2023-07-08
+Ritu Verma,Jaipur,22,2023-09-23,Ultra Backpack,4,7630.37,35211.04,Pending,2023-09-28
+Ritu Verma,Jaipur,22,2023-09-23,Portable Headphones,1,4689.56,35211.04,Pending,2023-09-28
+Ritu Singh,Pune,23,2023-08-22,Portable Bottle,2,7172.49,14344.98,Cancelled,2023-08-28
+Sanjay Sharma,Lucknow,24,2023-10-08,Comfort Shoes,5,8484.74,59009.86,Pending,2023-10-16
+Sanjay Sharma,Lucknow,24,2023-10-08,Ultra Headphones,4,4146.54,59009.86,Pending,2023-10-16
+Neha Gupta,Pune,25,2024-11-25,Digital T-Shirt,1,7455.85,7455.85,Delivered,2024-12-01
+Tanvi Bhat,Lucknow,26,2024-12-10,Eco Headphones,2,6428.57,12857.14,Cancelled,2024-12-15
+Priya Naidu,Bengaluru,27,2023-09-16,Wireless Watch,1,1127.17,77350.68,In Transit,2023-09-22
+Priya Naidu,Bengaluru,27,2023-09-16,Portable Bottle,5,7144.67,77350.68,In Transit,2023-09-22
+Priya Naidu,Bengaluru,27,2023-09-16,Digital Watch,4,10125.04,77350.68,In Transit,2023-09-22
+Tanvi Pillai,Delhi,28,2024-04-09,Pro Mixer,4,6415.33,93965.82,Shipped,2024-04-14
+Tanvi Pillai,Delhi,28,2024-04-09,Wireless T-Shirt,4,7804.59,93965.82,Shipped,2024-04-14
+Tanvi Pillai,Delhi,28,2024-04-09,Pro Keyboard,2,4060.87,93965.82,Shipped,2024-04-14
+Tanvi Pillai,Delhi,28,2024-04-09,Smart Book,4,6116.43,93965.82,Shipped,2024-04-14
+Tanvi Pillai,Delhi,28,2024-04-09,Wireless Watch,4,1124.67,93965.82,Shipped,2024-04-14
+Neha Pillai,Hyderabad,29,2024-03-13,Classic T-Shirt,4,9242.21,52105.48,Shipped,2024-03-23
+Neha Pillai,Hyderabad,29,2024-03-13,Premium Shoes,1,3010.76,52105.48,Shipped,2024-03-23
+Neha Pillai,Hyderabad,29,2024-03-13,Premium Keyboard,2,6062.94,52105.48,Shipped,2024-03-23
+Rohan Patel,Pune,30,2023-11-27,Classic Watch,1,630.19,50123.25,Cancelled,2023-12-04
+Rohan Patel,Pune,30,2023-11-27,Classic Keyboard,1,1459.06,50123.25,Cancelled,2023-12-04
+Rohan Patel,Pune,30,2023-11-27,Pro Bottle,5,9606.8,50123.25,Cancelled,2023-12-04
+Varun Ghosh,Chennai,31,2024-02-21,Wireless Lamp,1,9415.98,37533.06,Shipped,2024-02-24
+Varun Ghosh,Chennai,31,2024-02-21,Digital Keyboard,4,7029.27,37533.06,Shipped,2024-02-24
+Aditya Mehta,Delhi,32,2024-11-27,Smart Backpack,2,3808.67,49083.83,Pending,2024-12-02
+Aditya Mehta,Delhi,32,2024-11-27,Ultra Book,4,9248.23,49083.83,Pending,2024-12-02
+Aditya Mehta,Delhi,32,2024-11-27,Classic Lamp,1,4473.57,49083.83,Pending,2024-12-02
+Arjun Singh,Chennai,34,2023-02-14,Classic Watch,1,543.98,543.98,Cancelled,2023-02-24
+Arjun Khan,Lucknow,35,2023-10-12,Smart T-Shirt,1,7547.43,67151.23,Cancelled,2023-10-20
+Arjun Khan,Lucknow,35,2023-10-12,Eco Lamp,5,9741.52,67151.23,Cancelled,2023-10-20
+Arjun Khan,Lucknow,35,2023-10-12,Comfort Shoes,5,2179.24,67151.23,Cancelled,2023-10-20
+Pooja Sharma,Kolkata,37,2024-02-06,Digital Lamp,4,522.8,2091.2,Delivered,2024-02-12
+Rohan Khan,Ahmedabad,38,2023-03-25,Pro Headphones,3,7014.92,111397.63,Shipped,2023-04-01
+Rohan Khan,Ahmedabad,38,2023-03-25,Smart Shoes,3,9407.99,111397.63,Shipped,2023-04-01
+Rohan Khan,Ahmedabad,38,2023-03-25,Comfort Bottle,5,10536.41,111397.63,Shipped,2023-04-01
+Rohan Khan,Ahmedabad,38,2023-03-25,Wireless Keyboard,3,3148.95,111397.63,Shipped,2023-04-01
+Rahul Iyer,Ahmedabad,39,2023-01-26,Pro Bottle,4,8229.74,32918.96,Pending,2023-02-02
+Amit Das,Ahmedabad,40,2024-03-09,Digital Keyboard,2,5117.19,99526.94,Delivered,2024-03-16
+Amit Das,Ahmedabad,40,2024-03-09,Classic Bottle,4,7679.43,99526.94,Delivered,2024-03-16
+Amit Das,Ahmedabad,40,2024-03-09,Portable Mixer,2,8508.65,99526.94,Delivered,2024-03-16
+Amit Das,Ahmedabad,40,2024-03-09,Eco Headphones,4,5484.7,99526.94,Delivered,2024-03-16
+Amit Das,Ahmedabad,40,2024-03-09,Eco T-Shirt,2,3211.77,99526.94,Delivered,2024-03-16
+Amit Das,Ahmedabad,40,2024-03-09,Ultra Book,5,2639.04,99526.94,Delivered,2024-03-16
+Varun Verma,Mumbai,41,2023-09-13,Pro Keyboard,5,1384.25,6921.25,Shipped,2023-09-17
+Anita Singh,Hyderabad,42,2023-12-04,Ultra Shoes,2,1331.74,2663.48,In Transit,2023-12-10
+Meera Khan,Pune,43,2024-10-03,Comfort T-Shirt,4,1909.04,7636.16,Delivered,2024-10-13
+Rohan Mehta,Pune,44,2024-05-06,Eco Backpack,5,5332.31,57845.44,Cancelled,2024-05-13
+Rohan Mehta,Pune,44,2024-05-06,Wireless Bottle,3,10394.63,57845.44,Cancelled,2024-05-13
+Rahul Iyer,Ahmedabad,45,2023-01-25,Digital Headphones,3,1794.5,25733.69,Delivered,2023-02-02
+Rahul Iyer,Ahmedabad,45,2023-01-25,Eco Watch,1,4546.82,25733.69,Delivered,2023-02-02
+Rahul Iyer,Ahmedabad,45,2023-01-25,Digital Bottle,3,5267.79,25733.69,Delivered,2023-02-02
+Varun Nair,Jaipur,46,2024-10-03,Pro Shoes,3,1307.11,3921.33,Cancelled,2024-10-07
+Meera Pillai,Mumbai,47,2023-09-14,Eco Bottle,3,5547.1,16641.3,Cancelled,2023-09-20
+Arjun Khan,Mumbai,48,2024-04-29,Portable T-Shirt,3,2808.48,71175.86,Pending,2024-05-08
+Arjun Khan,Mumbai,48,2024-04-29,Premium Keyboard,4,5433.49,71175.86,Pending,2024-05-08
+Arjun Khan,Mumbai,48,2024-04-29,Premium Headphones,1,7969.54,71175.86,Pending,2024-05-08
+Arjun Khan,Mumbai,48,2024-04-29,Comfort Watch,4,8261.73,71175.86,Pending,2024-05-08
+Ritu Kulkarni,Ahmedabad,49,2023-12-15,Ultra Bottle,4,2101.91,8407.64,Shipped,2023-12-21
+Meera Shetty,Mumbai,50,2023-12-08,Wireless Backpack,4,5875.38,42281.86,Shipped,2023-12-13
+Meera Shetty,Mumbai,50,2023-12-08,Digital Watch,2,9390.17,42281.86,Shipped,2023-12-13
+Karan Gupta,Pune,51,2023-08-31,Wireless Mixer,1,1310.2,8623.5,Shipped,2023-09-07
+Karan Gupta,Pune,51,2023-08-31,Premium Book,2,3656.65,8623.5,Shipped,2023-09-07
+Sneha Shetty,Hyderabad,52,2024-09-06,Classic T-Shirt,4,2951.8,106119.2,In Transit,2024-09-12
+Sneha Shetty,Hyderabad,52,2024-09-06,Classic T-Shirt,3,9856.84,106119.2,In Transit,2024-09-12
+Sneha Shetty,Hyderabad,52,2024-09-06,Wireless Watch,3,1170.51,106119.2,In Transit,2024-09-12
+Sneha Shetty,Hyderabad,52,2024-09-06,Smart Bottle,5,4288.74,106119.2,In Transit,2024-09-12
+Sneha Shetty,Hyderabad,52,2024-09-06,Digital Bottle,5,7957.25,106119.2,In Transit,2024-09-12
+Tanvi Pillai,Pune,53,2023-04-08,Eco Keyboard,4,4026.95,47009.28,Cancelled,2023-04-16
+Tanvi Pillai,Pune,53,2023-04-08,Pro Headphones,5,5177.6,47009.28,Cancelled,2023-04-16
+Tanvi Pillai,Pune,53,2023-04-08,Pro Watch,2,2506.74,47009.28,Cancelled,2023-04-16
+Aditya Verma,Mumbai,54,2023-05-08,Eco Book,1,1306.84,2075.95,Delivered,2023-05-14
+Aditya Verma,Mumbai,54,2023-05-08,Eco Mixer,3,256.37,2075.95,Delivered,2023-05-14
+Varun Verma,Hyderabad,55,2023-03-04,Eco Backpack,3,5309.69,34784.67,Delivered,2023-03-11
+Varun Verma,Hyderabad,55,2023-03-04,Comfort Shoes,4,4713.9,34784.67,Delivered,2023-03-11
+Vikram Bhat,Jaipur,56,2023-11-17,Classic T-Shirt,4,987.27,5004.51,In Transit,2023-11-23
+Vikram Bhat,Jaipur,56,2023-11-17,Wireless Shoes,1,1055.43,5004.51,In Transit,2023-11-23
+Rahul Kulkarni,Hyderabad,57,2023-05-11,Classic Watch,1,2200.94,8308.56,Shipped,2023-05-18
+Rahul Kulkarni,Hyderabad,57,2023-05-11,Portable Keyboard,1,6107.62,8308.56,Shipped,2023-05-18
+Sneha Yadav,Jaipur,58,2024-03-28,Eco Book,4,8819.23,61399.72,Delivered,2024-04-06
+Sneha Yadav,Jaipur,58,2024-03-28,Pro Lamp,3,8707.6,61399.72,Delivered,2024-04-06
+Rahul Bhat,Mumbai,59,2024-09-17,Portable Backpack,3,9060.18,50727.96,Pending,2024-09-23
+Rahul Bhat,Mumbai,59,2024-09-17,Pro Lamp,4,3578.55,50727.96,Pending,2024-09-23
+Rahul Bhat,Mumbai,59,2024-09-17,Pro Mixer,2,4616.61,50727.96,Pending,2024-09-23
+Rahul Gupta,Lucknow,60,2023-04-15,Pro Watch,1,705.52,21557.74,Cancelled,2023-04-19
+Rahul Gupta,Lucknow,60,2023-04-15,Portable Book,1,5758.22,21557.74,Cancelled,2023-04-19
+Rahul Gupta,Lucknow,60,2023-04-15,Comfort Headphones,4,3773.5,21557.74,Cancelled,2023-04-19
+Aditya Kulkarni,Ahmedabad,61,2023-02-23,Portable Bottle,4,635.51,39314.88,Cancelled,2023-03-01
+Aditya Kulkarni,Ahmedabad,61,2023-02-23,Ultra Shoes,4,8729.05,39314.88,Cancelled,2023-03-01
+Aditya Kulkarni,Ahmedabad,61,2023-02-23,Digital Bottle,1,1856.64,39314.88,Cancelled,2023-03-01
+Karan Das,Hyderabad,62,2024-01-26,Classic Headphones,3,6682.03,60123.57,Cancelled,2024-01-30
+Karan Das,Hyderabad,62,2024-01-26,Wireless Bottle,4,10019.37,60123.57,Cancelled,2024-01-30
+Pooja Bose,Mumbai,63,2024-09-24,Wireless Backpack,4,1011.02,57651.39,Delivered,2024-10-01
+Pooja Bose,Mumbai,63,2024-09-24,Wireless Lamp,1,8520.52,57651.39,Delivered,2024-10-01
+Pooja Bose,Mumbai,63,2024-09-24,Premium T-Shirt,5,5472.57,57651.39,Delivered,2024-10-01
+Pooja Bose,Mumbai,63,2024-09-24,Classic Watch,2,8861.97,57651.39,Delivered,2024-10-01
+Rahul Chopra,Ahmedabad,64,2024-09-05,Premium Backpack,4,7684.87,30739.48,Cancelled,2024-09-09
+Pooja Khan,Lucknow,66,2024-03-14,Classic Book,2,7990.29,42754.14,Delivered,2024-03-18
+Pooja Khan,Lucknow,66,2024-03-14,Comfort Watch,1,7599.68,42754.14,Delivered,2024-03-18
+Pooja Khan,Lucknow,66,2024-03-14,Portable Headphones,4,4793.47,42754.14,Delivered,2024-03-18
+Aditya Naidu,Kolkata,67,2023-04-14,Ultra Shoes,1,1603.15,56554.42,In Transit,2023-04-19
+Aditya Naidu,Kolkata,67,2023-04-14,Classic Watch,3,9047.97,56554.42,In Transit,2023-04-19
+Aditya Naidu,Kolkata,67,2023-04-14,Ultra Backpack,4,6951.84,56554.42,In Transit,2023-04-19
+Kavya Naidu,Bengaluru,68,2024-11-22,Eco Watch,1,6573.5,34408.9,Cancelled,2024-11-25
+Kavya Naidu,Bengaluru,68,2024-11-22,Classic Bottle,3,8272.76,34408.9,Cancelled,2024-11-25
+Kavya Naidu,Bengaluru,68,2024-11-22,Pro Watch,4,754.28,34408.9,Cancelled,2024-11-25
+Ritu Kulkarni,Lucknow,69,2024-06-13,Ultra T-Shirt,5,7643.6,38218.0,Cancelled,2024-06-19
+Varun Kulkarni,Mumbai,71,2023-01-13,Classic T-Shirt,1,10315.77,21009.94,In Transit,2023-01-19
+Varun Kulkarni,Mumbai,71,2023-01-13,Comfort Shoes,3,2139.54,21009.94,In Transit,2023-01-19
+Varun Kulkarni,Mumbai,71,2023-01-13,Comfort Headphones,1,4275.55,21009.94,In Transit,2023-01-19
+Rohan Ghosh,Chennai,72,2023-03-11,Ultra Keyboard,1,5353.82,19648.28,Pending,2023-03-17
+Rohan Ghosh,Chennai,72,2023-03-11,Premium Mixer,2,7147.23,19648.28,Pending,2023-03-17
+Meera Shetty,Pune,73,2023-07-18,Ultra Headphones,2,9943.98,19887.96,Delivered,2023-07-25
+Ritu Pillai,Hyderabad,74,2024-10-14,Portable Book,2,2564.37,46916.81,Pending,2024-10-22
+Ritu Pillai,Hyderabad,74,2024-10-14,Portable Mixer,4,4462.31,46916.81,Pending,2024-10-22
+Ritu Pillai,Hyderabad,74,2024-10-14,Ultra Watch,5,4463.72,46916.81,Pending,2024-10-22
+Ritu Pillai,Hyderabad,74,2024-10-14,Digital Book,1,1620.23,46916.81,Pending,2024-10-22
+Pooja Yadav,Mumbai,75,2023-12-30,Wireless Headphones,2,9411.58,26859.24,Cancelled,2024-01-08
+Pooja Yadav,Mumbai,75,2023-12-30,Digital Mixer,1,8036.08,26859.24,Cancelled,2024-01-08
+Deepak Sharma,Delhi,76,2024-09-27,Classic Headphones,3,6061.53,56187.26,Delivered,2024-10-02
+Deepak Sharma,Delhi,76,2024-09-27,Comfort Backpack,2,7550.62,56187.26,Delivered,2024-10-02
+Deepak Sharma,Delhi,76,2024-09-27,Portable Shoes,2,4026.21,56187.26,Delivered,2024-10-02
+Deepak Sharma,Delhi,76,2024-09-27,Pro Keyboard,3,4949.67,56187.26,Delivered,2024-10-02
+Deepak Yadav,Chennai,77,2023-09-06,Digital Book,4,1496.18,66580.64,Pending,2023-09-13
+Deepak Yadav,Chennai,77,2023-09-06,Comfort Headphones,3,5657.34,66580.64,Pending,2023-09-13
+Deepak Yadav,Chennai,77,2023-09-06,Comfort Backpack,5,8724.78,66580.64,Pending,2023-09-13
+Varun Nair,Jaipur,78,2023-02-15,Premium Mixer,4,6889.53,53490.32,Cancelled,2023-02-25
+Varun Nair,Jaipur,78,2023-02-15,Wireless Watch,5,5186.44,53490.32,Cancelled,2023-02-25
+Ritu Verma,Jaipur,79,2023-11-16,Smart Lamp,2,1111.94,2223.88,Pending,2023-11-21
+Rahul Yadav,Pune,80,2024-06-09,Wireless T-Shirt,1,1878.01,1878.01,Pending,2024-06-17
+Sneha Shetty,Hyderabad,82,2023-05-30,Eco Lamp,3,7376.47,62971.1,Shipped,2023-06-05
+Sneha Shetty,Hyderabad,82,2023-05-30,Ultra Shoes,5,7824.61,62971.1,Shipped,2023-06-05
+Sneha Shetty,Hyderabad,82,2023-05-30,Smart Lamp,1,1718.64,62971.1,Shipped,2023-06-05
+Ritu Reddy,Bengaluru,83,2023-11-13,Pro Lamp,5,8878.77,74193.51,Pending,2023-11-17
+Ritu Reddy,Bengaluru,83,2023-11-13,Pro Backpack,3,9933.22,74193.51,Pending,2023-11-17
+Sneha Reddy,Hyderabad,84,2023-10-26,Portable Book,4,5024.85,20099.4,In Transit,2023-11-01
+Tanvi Bhat,Lucknow,85,2023-01-09,Classic Book,1,7109.4,15231.27,Delivered,2023-01-18
+Tanvi Bhat,Lucknow,85,2023-01-09,Wireless Mixer,3,833.03,15231.27,Delivered,2023-01-18
+Tanvi Bhat,Lucknow,85,2023-01-09,Comfort T-Shirt,3,1874.26,15231.27,Delivered,2023-01-18
+Arjun Gupta,Bengaluru,86,2024-11-04,Comfort Backpack,3,8224.56,56091.21,In Transit,2024-11-14
+Arjun Gupta,Bengaluru,86,2024-11-04,Wireless T-Shirt,2,8900.09,56091.21,In Transit,2024-11-14
+Arjun Gupta,Bengaluru,86,2024-11-04,Ultra Book,2,2534.32,56091.21,In Transit,2024-11-14
+Arjun Gupta,Bengaluru,86,2024-11-04,Ultra Backpack,3,2849.57,56091.21,In Transit,2024-11-14
+Amit Patel,Bengaluru,87,2023-09-01,Pro Headphones,3,4091.02,69962.84,Pending,2023-09-09
+Amit Patel,Bengaluru,87,2023-09-01,Portable Headphones,4,1910.22,69962.84,Pending,2023-09-09
+Amit Patel,Bengaluru,87,2023-09-01,Digital Backpack,5,10009.78,69962.84,Pending,2023-09-09
+Deepak Mehta,Pune,88,2024-07-26,Portable Watch,5,4408.02,38673.07,In Transit,2024-08-02
+Deepak Mehta,Pune,88,2024-07-26,Portable Lamp,2,2972.78,38673.07,In Transit,2024-08-02
+Deepak Mehta,Pune,88,2024-07-26,Wireless Book,2,2807.1,38673.07,In Transit,2024-08-02
+Deepak Mehta,Pune,88,2024-07-26,Ultra Bottle,1,5073.21,38673.07,In Transit,2024-08-02
+Arjun Kulkarni,Bengaluru,89,2023-12-19,Wireless Lamp,2,3584.98,7169.96,Cancelled,2023-12-24
+Rohan Shetty,Ahmedabad,90,2023-07-25,Portable Lamp,3,6586.79,19760.37,Shipped,2023-07-31
+Sneha Patel,Pune,91,2023-03-12,Wireless Keyboard,3,8230.54,61369.97,Delivered,2023-03-19
+Sneha Patel,Pune,91,2023-03-12,Eco Backpack,5,7335.67,61369.97,Delivered,2023-03-19
+Deepak Singh,Delhi,92,2024-11-14,Comfort Backpack,3,8822.47,30051.82,Shipped,2024-11-22
+Deepak Singh,Delhi,92,2024-11-14,Digital Backpack,1,3584.41,30051.82,Shipped,2024-11-22
+Tanvi Kulkarni,Lucknow,93,2024-12-09,Classic Headphones,4,8436.61,33746.44,In Transit,2024-12-16
+Isha Yadav,Bengaluru,94,2024-12-10,Portable Book,3,2585.76,14920.1,Cancelled,2024-12-13
+Isha Yadav,Bengaluru,94,2024-12-10,Eco T-Shirt,2,1379.57,14920.1,Cancelled,2024-12-13
+Isha Yadav,Bengaluru,94,2024-12-10,Digital Keyboard,1,4403.68,14920.1,Cancelled,2024-12-13
+Kavya Das,Delhi,95,2024-08-15,Premium Book,4,7699.55,30798.2,Pending,2024-08-22
+Sanjay Reddy,Lucknow,96,2023-12-10,Eco Watch,3,6208.61,49197.93,Cancelled,2023-12-19
+Sanjay Reddy,Lucknow,96,2023-12-10,Ultra Headphones,4,7107.05,49197.93,Cancelled,2023-12-19
+Sanjay Reddy,Lucknow,96,2023-12-10,Smart T-Shirt,1,2143.9,49197.93,Cancelled,2023-12-19
+Karan Ghosh,Lucknow,97,2024-03-04,Comfort T-Shirt,3,1998.44,35330.68,Cancelled,2024-03-12
+Karan Ghosh,Lucknow,97,2024-03-04,Wireless T-Shirt,5,1413.44,35330.68,Cancelled,2024-03-12
+Karan Ghosh,Lucknow,97,2024-03-04,Eco Shoes,2,8405.0,35330.68,Cancelled,2024-03-12
+Karan Ghosh,Lucknow,97,2024-03-04,Smart Bottle,2,1591.01,35330.68,Cancelled,2024-03-12
+Karan Ghosh,Lucknow,97,2024-03-04,Smart Lamp,2,1138.07,35330.68,Cancelled,2024-03-12
+Kavya Patel,Jaipur,99,2023-02-13,Wireless Headphones,2,1867.49,3734.98,In Transit,2023-02-21
+Karan Kulkarni,Pune,100,2023-01-04,Eco Watch,1,5995.52,30424.9,Shipped,2023-01-14
+Karan Kulkarni,Pune,100,2023-01-04,Comfort Shoes,4,5159.37,30424.9,Shipped,2023-01-14
+Karan Kulkarni,Pune,100,2023-01-04,Digital Mixer,5,758.38,30424.9,Shipped,2023-01-14
+Anita Das,Delhi,102,2023-08-07,Eco Lamp,4,8561.93,58077.28,Pending,2023-08-14
+Anita Das,Delhi,102,2023-08-07,Ultra Book,3,4611.51,58077.28,Pending,2023-08-14
+Anita Das,Delhi,102,2023-08-07,Digital Mixer,1,9350.08,58077.28,Pending,2023-08-14
+Anita Das,Delhi,102,2023-08-07,Portable Lamp,5,128.99,58077.28,Pending,2023-08-14
+Deepak Sharma,Delhi,103,2023-12-06,Eco Watch,3,6285.18,21575.29,Shipped,2023-12-11
+Deepak Sharma,Delhi,103,2023-12-06,Smart Headphones,1,2719.75,21575.29,Shipped,2023-12-11
+Kavya Khan,Bengaluru,105,2023-01-07,Classic Watch,4,3856.66,54094.44,Delivered,2023-01-12
+Kavya Khan,Bengaluru,105,2023-01-07,Ultra Book,5,7733.56,54094.44,Delivered,2023-01-12
+Aditya Shetty,Pune,107,2024-07-22,Eco Watch,1,2622.89,44560.28,Pending,2024-07-27
+Aditya Shetty,Pune,107,2024-07-22,Pro Headphones,1,3257.99,44560.28,Pending,2024-07-27
+Aditya Shetty,Pune,107,2024-07-22,Comfort Lamp,5,7735.88,44560.28,Pending,2024-07-27
+Vikram Bose,Ahmedabad,109,2024-10-08,Classic Watch,1,9048.82,48317.16,Cancelled,2024-10-16
+Vikram Bose,Ahmedabad,109,2024-10-08,Classic Watch,4,2037.63,48317.16,Cancelled,2024-10-16
+Vikram Bose,Ahmedabad,109,2024-10-08,Comfort Shoes,2,3153.07,48317.16,Cancelled,2024-10-16
+Vikram Bose,Ahmedabad,109,2024-10-08,Pro Book,3,8270.56,48317.16,Cancelled,2024-10-16
+Isha Iyer,Mumbai,110,2024-01-04,Wireless Mixer,2,868.86,16144.72,Delivered,2024-01-06
+Isha Iyer,Mumbai,110,2024-01-04,Comfort Bottle,5,2881.4,16144.72,Delivered,2024-01-06
+Rohan Shetty,Ahmedabad,111,2023-01-31,Premium Headphones,2,7568.43,33224.4,In Transit,2023-02-04
+Rohan Shetty,Ahmedabad,111,2023-01-31,Smart T-Shirt,3,5322.98,33224.4,In Transit,2023-02-04
+Rohan Shetty,Ahmedabad,111,2023-01-31,Wireless Mixer,4,529.65,33224.4,In Transit,2023-02-04
+Karan Kulkarni,Pune,113,2023-09-26,Pro Watch,3,2452.59,10104.48,In Transit,2023-10-02
+Karan Kulkarni,Pune,113,2023-09-26,Classic T-Shirt,3,915.57,10104.48,In Transit,2023-10-02
+Varun Sharma,Delhi,115,2023-07-20,Wireless Bottle,2,9004.76,45873.55,In Transit,2023-07-27
+Varun Sharma,Delhi,115,2023-07-20,Portable Watch,3,7785.82,45873.55,In Transit,2023-07-27
+Varun Sharma,Delhi,115,2023-07-20,Pro Keyboard,4,237.73,45873.55,In Transit,2023-07-27
+Varun Sharma,Delhi,115,2023-07-20,Smart Bottle,5,711.13,45873.55,In Transit,2023-07-27
+Pooja Chopra,Pune,116,2023-09-26,Smart Backpack,4,1956.48,40348.65,Shipped,2023-09-30
+Pooja Chopra,Pune,116,2023-09-26,Ultra Mixer,2,2477.97,40348.65,Shipped,2023-09-30
+Pooja Chopra,Pune,116,2023-09-26,Smart Headphones,3,9188.93,40348.65,Shipped,2023-09-30
+Sneha Shetty,Jaipur,117,2024-11-24,Ultra Bottle,3,3960.32,11880.96,Pending,2024-12-02
+Rahul Ghosh,Bengaluru,119,2023-08-04,Digital Keyboard,4,4575.65,36814.9,Delivered,2023-08-09
+Rahul Ghosh,Bengaluru,119,2023-08-04,Ultra Headphones,2,5347.27,36814.9,Delivered,2023-08-09
+Rahul Ghosh,Bengaluru,119,2023-08-04,Pro Headphones,1,7817.76,36814.9,Delivered,2023-08-09
+Aditya Bhat,Chennai,121,2024-01-17,Digital Keyboard,1,7873.82,70456.16,Delivered,2024-01-24
+Aditya Bhat,Chennai,121,2024-01-17,Pro Mixer,4,8904.66,70456.16,Delivered,2024-01-24
+Aditya Bhat,Chennai,121,2024-01-17,Classic Watch,3,4227.11,70456.16,Delivered,2024-01-24
+Aditya Bhat,Chennai,121,2024-01-17,Pro Keyboard,3,4760.79,70456.16,Delivered,2024-01-24
+Isha Kulkarni,Pune,122,2024-06-23,Digital Backpack,3,1603.37,4810.11,Delivered,2024-06-29
+Rohan Chopra,Pune,124,2023-05-28,Premium Mixer,4,6474.8,39607.37,In Transit,2023-06-02
+Rohan Chopra,Pune,124,2023-05-28,Eco Lamp,3,4569.39,39607.37,In Transit,2023-06-02
+Karan Gupta,Pune,125,2023-07-14,Premium Book,3,8075.31,24225.93,Shipped,2023-07-21
+Priya Mehta,Ahmedabad,126,2024-01-23,Eco Book,4,7849.74,77984.99,In Transit,2024-02-01
+Priya Mehta,Ahmedabad,126,2024-01-23,Comfort Book,4,4695.42,77984.99,In Transit,2024-02-01
+Priya Mehta,Ahmedabad,126,2024-01-23,Digital Book,5,5560.87,77984.99,In Transit,2024-02-01
+Priya Kulkarni,Jaipur,127,2024-09-05,Premium Lamp,4,4146.99,23816.14,Shipped,2024-09-13
+Priya Kulkarni,Jaipur,127,2024-09-05,Comfort Backpack,1,7228.18,23816.14,Shipped,2024-09-13
+Sneha Sharma,Bengaluru,128,2023-09-08,Ultra Bottle,5,4898.17,51192.29,Cancelled,2023-09-17
+Sneha Sharma,Bengaluru,128,2023-09-08,Eco T-Shirt,2,7608.02,51192.29,Cancelled,2023-09-17
+Sneha Sharma,Bengaluru,128,2023-09-08,Ultra Book,5,2297.08,51192.29,Cancelled,2023-09-17
+Aditya Ghosh,Kolkata,129,2024-09-22,Eco Keyboard,1,3652.06,26858.92,Delivered,2024-10-01
+Aditya Ghosh,Kolkata,129,2024-09-22,Portable Backpack,3,7735.62,26858.92,Delivered,2024-10-01
+Deepak Singh,Delhi,130,2024-07-02,Eco Lamp,4,9870.42,39481.68,Pending,2024-07-08
+Meera Shetty,Pune,131,2023-06-02,Classic T-Shirt,4,4529.8,33911.24,Shipped,2023-06-10
+Meera Shetty,Pune,131,2023-06-02,Comfort Headphones,4,3948.01,33911.24,Shipped,2023-06-10
+Neha Iyer,Delhi,132,2023-02-24,Wireless Bottle,5,4561.97,31430.41,In Transit,2023-03-01
+Neha Iyer,Delhi,132,2023-02-24,Comfort Book,4,2155.14,31430.41,In Transit,2023-03-01
+Neha Gupta,Mumbai,134,2024-08-21,Pro Headphones,1,7180.64,13844.99,Shipped,2024-08-24
+Neha Gupta,Mumbai,134,2024-08-21,Pro Headphones,1,6664.35,13844.99,Shipped,2024-08-24
+Pooja Naidu,Mumbai,135,2023-03-25,Wireless Book,4,8154.39,38743.17,In Transit,2023-04-02
+Pooja Naidu,Mumbai,135,2023-03-25,Smart Watch,1,6125.61,38743.17,In Transit,2023-04-02
+Meera Shetty,Pune,136,2024-11-10,Digital Keyboard,3,7708.76,49797.29,In Transit,2024-11-15
+Meera Shetty,Pune,136,2024-11-10,Classic Book,5,4810.09,49797.29,In Transit,2024-11-15
+Meera Shetty,Pune,136,2024-11-10,Eco T-Shirt,2,1310.28,49797.29,In Transit,2024-11-15
+Rahul Gupta,Lucknow,137,2023-06-21,Classic Book,4,5235.06,29627.02,Shipped,2023-06-28
+Rahul Gupta,Lucknow,137,2023-06-21,Digital Book,5,1457.74,29627.02,Shipped,2023-06-28
+Rahul Gupta,Lucknow,137,2023-06-21,Pro Watch,2,699.04,29627.02,Shipped,2023-06-28
+Rohan Nair,Hyderabad,138,2024-10-22,Ultra Shoes,3,4430.29,13290.87,Delivered,2024-10-26
+Rahul Patel,Chennai,139,2024-05-25,Comfort Keyboard,1,7117.39,29188.54,Shipped,2024-06-01
+Rahul Patel,Chennai,139,2024-05-25,Ultra Book,5,4414.23,29188.54,Shipped,2024-06-01
+Pooja Khan,Lucknow,140,2023-07-03,Wireless Keyboard,1,7680.3,12776.75,Cancelled,2023-07-13
+Pooja Khan,Lucknow,140,2023-07-03,Premium Keyboard,1,5096.45,12776.75,Cancelled,2023-07-13
+Tanvi Shetty,Delhi,141,2024-01-18,Wireless Lamp,1,3638.91,68372.07,In Transit,2024-01-23
+Tanvi Shetty,Delhi,141,2024-01-18,Pro Headphones,4,3392.86,68372.07,In Transit,2024-01-23
+Tanvi Shetty,Delhi,141,2024-01-18,Portable Shoes,4,7507.78,68372.07,In Transit,2024-01-23
+Tanvi Shetty,Delhi,141,2024-01-18,Pro Backpack,4,5282.65,68372.07,In Transit,2024-01-23
+Tanvi Kulkarni,Lucknow,142,2024-05-09,Ultra Mixer,2,3207.22,49993.12,Shipped,2024-05-15
+Tanvi Kulkarni,Lucknow,142,2024-05-09,Comfort Watch,4,6779.97,49993.12,Shipped,2024-05-15
+Tanvi Kulkarni,Lucknow,142,2024-05-09,Smart Mixer,2,8229.4,49993.12,Shipped,2024-05-15
+Vikram Das,Delhi,143,2023-10-02,Portable Bottle,1,1081.85,87195.31,In Transit,2023-10-11
+Vikram Das,Delhi,143,2023-10-02,Portable Keyboard,5,6727.55,87195.31,In Transit,2023-10-11
+Vikram Das,Delhi,143,2023-10-02,Classic Book,5,7465.73,87195.31,In Transit,2023-10-11
+Vikram Das,Delhi,143,2023-10-02,Premium Keyboard,2,7573.53,87195.31,In Transit,2023-10-11
+Pooja Shetty,Chennai,144,2024-10-15,Classic Headphones,3,5820.66,39113.16,Delivered,2024-10-22
+Pooja Shetty,Chennai,144,2024-10-15,Comfort Watch,3,7217.06,39113.16,Delivered,2024-10-22
+Varun Kulkarni,Bengaluru,145,2023-02-07,Smart Watch,1,3660.19,87180.44,Pending,2023-02-15
+Varun Kulkarni,Bengaluru,145,2023-02-07,Eco Shoes,5,7027.15,87180.44,Pending,2023-02-15
+Varun Kulkarni,Bengaluru,145,2023-02-07,Pro Mixer,2,3890.03,87180.44,Pending,2023-02-15
+Varun Kulkarni,Bengaluru,145,2023-02-07,Digital T-Shirt,5,7431.26,87180.44,Pending,2023-02-15
+Varun Kulkarni,Bengaluru,145,2023-02-07,Smart Lamp,3,1149.38,87180.44,Pending,2023-02-15
+Karan Kulkarni,Pune,146,2023-07-27,Smart Book,2,8311.53,38193.1,In Transit,2023-08-01
+Karan Kulkarni,Pune,146,2023-07-27,Eco Keyboard,4,5392.51,38193.1,In Transit,2023-08-01
+Aditya Ghosh,Bengaluru,147,2023-08-29,Eco Shoes,4,8996.66,57214.48,Pending,2023-09-05
+Aditya Ghosh,Bengaluru,147,2023-08-29,Premium T-Shirt,1,884.12,57214.48,Pending,2023-09-05
+Aditya Ghosh,Bengaluru,147,2023-08-29,Comfort Backpack,3,6781.24,57214.48,Pending,2023-09-05
+Pooja Nair,Hyderabad,148,2023-11-10,Wireless Keyboard,5,2796.06,13980.3,In Transit,2023-11-18
+Ritu Reddy,Chennai,149,2024-01-22,Premium Book,4,7237.92,94147.04,In Transit,2024-01-26
+Ritu Reddy,Chennai,149,2024-01-22,Premium Book,2,5060.59,94147.04,In Transit,2024-01-26
+Ritu Reddy,Chennai,149,2024-01-22,Ultra Watch,2,4099.44,94147.04,In Transit,2024-01-26
+Ritu Reddy,Chennai,149,2024-01-22,Ultra Book,5,9375.06,94147.04,In Transit,2024-01-26
+Aditya Das,Delhi,150,2024-01-19,Premium Headphones,1,2913.9,2913.9,Cancelled,2024-01-26
+Amit Ghosh,Ahmedabad,151,2023-03-28,Comfort Mixer,5,3204.74,59448.05,Cancelled,2023-04-01
+Amit Ghosh,Ahmedabad,151,2023-03-28,Comfort Keyboard,4,2234.97,59448.05,Cancelled,2023-04-01
+Amit Ghosh,Ahmedabad,151,2023-03-28,Ultra Shoes,2,9227.78,59448.05,Cancelled,2023-04-01
+Amit Ghosh,Ahmedabad,151,2023-03-28,Classic Mixer,3,5342.97,59448.05,Cancelled,2023-04-01
+Anita Chopra,Lucknow,152,2023-03-28,Comfort Watch,4,6981.18,27924.72,Pending,2023-04-04
+Vikram Ghosh,Ahmedabad,153,2024-06-15,Digital T-Shirt,1,7284.51,7284.51,In Transit,2024-06-19
+Pooja Shetty,Hyderabad,155,2024-06-08,Ultra Headphones,1,3956.34,3956.34,Cancelled,2024-06-13
+Tanvi Gupta,Mumbai,156,2024-03-12,Digital Backpack,1,1098.83,43264.04,Pending,2024-03-17
+Tanvi Gupta,Mumbai,156,2024-03-12,Portable Lamp,3,5957.55,43264.04,Pending,2024-03-17
+Tanvi Gupta,Mumbai,156,2024-03-12,Portable Shoes,3,7255.04,43264.04,Pending,2024-03-17
+Tanvi Gupta,Mumbai,156,2024-03-12,Eco Book,2,1263.72,43264.04,Pending,2024-03-17
+Deepak Gupta,Kolkata,157,2024-03-18,Digital Shoes,5,4374.4,21872.0,Cancelled,2024-03-24
+Kavya Ghosh,Bengaluru,158,2024-05-24,Digital Backpack,3,4298.96,12896.88,Pending,2024-05-31
+Deepak Chopra,Mumbai,159,2024-01-27,Premium Shoes,5,5783.25,40760.8,Pending,2024-02-04
+Deepak Chopra,Mumbai,159,2024-01-27,Classic Lamp,1,7237.79,40760.8,Pending,2024-02-04
+Deepak Chopra,Mumbai,159,2024-01-27,Comfort Watch,2,2303.38,40760.8,Pending,2024-02-04
+Varun Sharma,Delhi,160,2024-03-28,Wireless Shoes,4,5112.37,28889.0,Shipped,2024-04-03
+Varun Sharma,Delhi,160,2024-03-28,Classic Mixer,1,5644.18,28889.0,Shipped,2024-04-03
+Varun Sharma,Delhi,160,2024-03-28,Wireless T-Shirt,3,931.78,28889.0,Shipped,2024-04-03
+Ritu Yadav,Bengaluru,161,2024-10-22,Eco Keyboard,1,5393.1,13132.18,Shipped,2024-10-30
+Ritu Yadav,Bengaluru,161,2024-10-22,Portable Watch,2,3869.54,13132.18,Shipped,2024-10-30
+Kavya Shetty,Pune,162,2023-03-26,Pro Backpack,1,8376.36,8376.36,Shipped,2023-03-31
+Isha Reddy,Chennai,163,2024-05-28,Eco Keyboard,4,3253.17,36811.72,Cancelled,2024-06-05
+Isha Reddy,Chennai,163,2024-05-28,Premium Shoes,2,1757.53,36811.72,Cancelled,2024-06-05
+Isha Reddy,Chennai,163,2024-05-28,Ultra Headphones,2,10141.99,36811.72,Cancelled,2024-06-05
+Amit Gupta,Chennai,164,2024-10-21,Classic Headphones,2,3112.41,49481.92,Pending,2024-10-24
+Amit Gupta,Chennai,164,2024-10-21,Pro Mixer,5,8651.42,49481.92,Pending,2024-10-24
+Sneha Patel,Pune,165,2023-10-11,Ultra Headphones,4,5487.06,21948.24,Shipped,2023-10-18
+Karan Nair,Ahmedabad,166,2023-05-02,Digital Watch,3,5567.82,36530.26,Shipped,2023-05-09
+Karan Nair,Ahmedabad,166,2023-05-02,Pro Mixer,4,4956.7,36530.26,Shipped,2023-05-09
+Arjun Kulkarni,Jaipur,168,2023-12-08,Ultra Backpack,3,6751.17,20890.51,Pending,2023-12-16
+Arjun Kulkarni,Jaipur,168,2023-12-08,Portable Lamp,5,127.4,20890.51,Pending,2023-12-16
+Ritu Khan,Jaipur,169,2023-12-04,Wireless Headphones,1,9494.82,9494.82,Delivered,2023-12-11
+Rahul Bhat,Mumbai,170,2024-11-30,Portable Backpack,1,7620.89,7620.89,Pending,2024-12-08
+Rohan Naidu,Jaipur,171,2024-12-23,Smart Mixer,3,6772.93,24382.12,In Transit,2024-12-29
+Rohan Naidu,Jaipur,171,2024-12-23,Portable Mixer,1,2078.06,24382.12,In Transit,2024-12-29
+Rohan Naidu,Jaipur,171,2024-12-23,Portable Bottle,1,1985.27,24382.12,In Transit,2024-12-29
+Aditya Naidu,Bengaluru,172,2024-07-10,Portable Bottle,2,7660.1,19875.67,Cancelled,2024-07-15
+Aditya Naidu,Bengaluru,172,2024-07-10,Eco Watch,1,4555.47,19875.67,Cancelled,2024-07-15
+Ritu Ghosh,Kolkata,173,2023-11-03,Digital Book,1,770.8,770.8,Cancelled,2023-11-10
+Isha Nair,Hyderabad,174,2023-12-21,Pro Headphones,2,8029.08,16058.16,Pending,2023-12-28
+Sanjay Chopra,Ahmedabad,175,2024-02-20,Classic Lamp,2,4000.92,39951.09,Pending,2024-02-26
+Sanjay Chopra,Ahmedabad,175,2024-02-20,Comfort Book,5,2499.65,39951.09,Pending,2024-02-26
+Sanjay Chopra,Ahmedabad,175,2024-02-20,Eco Keyboard,5,3890.2,39951.09,Pending,2024-02-26
+Rohan Sharma,Kolkata,176,2024-11-02,Premium Lamp,4,3376.49,39331.92,Pending,2024-11-09
+Rohan Sharma,Kolkata,176,2024-11-02,Smart Book,4,6456.49,39331.92,Pending,2024-11-09
+Neha Mehta,Bengaluru,177,2024-10-31,Comfort Lamp,1,5067.77,6779.28,Shipped,2024-11-09
+Neha Mehta,Bengaluru,177,2024-10-31,Digital Book,1,1711.51,6779.28,Shipped,2024-11-09
+Varun Nair,Hyderabad,178,2023-06-02,Pro Backpack,2,4798.57,9597.14,Delivered,2023-06-09
+Varun Bhat,Delhi,179,2023-08-21,Digital Bottle,2,1649.87,28883.49,In Transit,2023-08-29
+Varun Bhat,Delhi,179,2023-08-21,Portable Backpack,5,5116.75,28883.49,In Transit,2023-08-29
+Vikram Das,Delhi,180,2023-08-28,Eco Backpack,4,4570.02,18280.08,Cancelled,2023-09-05
+Arjun Gupta,Bengaluru,181,2024-07-19,Ultra Backpack,5,6996.37,63122.17,Delivered,2024-07-28
+Arjun Gupta,Bengaluru,181,2024-07-19,Ultra Shoes,1,2427.84,63122.17,Delivered,2024-07-28
+Arjun Gupta,Bengaluru,181,2024-07-19,Digital T-Shirt,2,1634.14,63122.17,Delivered,2024-07-28
+Arjun Gupta,Bengaluru,181,2024-07-19,Classic Watch,5,4488.84,63122.17,Delivered,2024-07-28
+Karan Khan,Hyderabad,182,2024-04-17,Comfort Keyboard,4,2790.65,44197.12,In Transit,2024-04-26
+Karan Khan,Hyderabad,182,2024-04-17,Pro T-Shirt,4,7388.93,44197.12,In Transit,2024-04-26
+Karan Khan,Hyderabad,182,2024-04-17,Smart Watch,5,695.76,44197.12,In Transit,2024-04-26
+Amit Sharma,Jaipur,183,2023-03-29,Wireless Mixer,3,2170.33,6510.99,Pending,2023-04-03
+Anita Shetty,Bengaluru,184,2023-07-12,Portable Shoes,5,4664.51,26479.33,Shipped,2023-07-19
+Anita Shetty,Bengaluru,184,2023-07-12,Portable Mixer,2,1578.39,26479.33,Shipped,2023-07-19
+Karan Pillai,Pune,185,2024-12-15,Ultra Book,4,8241.72,39139.72,In Transit,2024-12-22
+Karan Pillai,Pune,185,2024-12-15,Comfort Shoes,2,3086.42,39139.72,In Transit,2024-12-22
+Pooja Naidu,Mumbai,186,2024-03-25,Eco Keyboard,3,7480.85,92491.88,Shipped,2024-04-04
+Pooja Naidu,Mumbai,186,2024-03-25,Ultra Headphones,3,10040.15,92491.88,Shipped,2024-04-04
+Pooja Naidu,Mumbai,186,2024-03-25,Pro Keyboard,4,9982.22,92491.88,Shipped,2024-04-04
+Kavya Das,Delhi,187,2024-07-25,Eco Watch,5,2617.81,13089.05,Cancelled,2024-08-03
+Rahul Patel,Chennai,188,2023-05-23,Comfort T-Shirt,1,1770.45,3707.08,Shipped,2023-05-27
+Rahul Patel,Chennai,188,2023-05-23,Premium Shoes,1,1936.63,3707.08,Shipped,2023-05-27
+Meera Naidu,Pune,189,2023-05-12,Smart Lamp,3,1286.99,28979.97,Pending,2023-05-15
+Meera Naidu,Pune,189,2023-05-12,Digital Keyboard,3,8373.0,28979.97,Pending,2023-05-15
+Kavya Bhat,Lucknow,190,2023-01-10,Comfort Lamp,3,6639.94,19919.82,Cancelled,2023-01-13
+Aditya Bhat,Chennai,191,2024-11-05,Wireless Headphones,4,857.87,34841.43,In Transit,2024-11-09
+Aditya Bhat,Chennai,191,2024-11-05,Eco Headphones,5,6281.99,34841.43,In Transit,2024-11-09
+Rahul Ghosh,Bengaluru,192,2023-08-19,Portable Bottle,3,4508.04,39437.38,In Transit,2023-08-23
+Rahul Ghosh,Bengaluru,192,2023-08-19,Eco Book,2,1399.58,39437.38,In Transit,2023-08-23
+Rahul Ghosh,Bengaluru,192,2023-08-19,Comfort Backpack,1,4755.14,39437.38,In Transit,2023-08-23
+Rahul Ghosh,Bengaluru,192,2023-08-19,Eco Backpack,4,4589.74,39437.38,In Transit,2023-08-23
+Varun Iyer,Hyderabad,193,2024-12-03,Comfort Book,1,4789.46,24647.3,Shipped,2024-12-10
+Varun Iyer,Hyderabad,193,2024-12-03,Wireless Mixer,3,596.16,24647.3,Shipped,2024-12-10
+Varun Iyer,Hyderabad,193,2024-12-03,Ultra Keyboard,2,9034.68,24647.3,Shipped,2024-12-10
+Aditya Ghosh,Kolkata,194,2024-12-08,Eco Headphones,2,6341.04,30425.09,Shipped,2024-12-12
+Aditya Ghosh,Kolkata,194,2024-12-08,Classic Headphones,1,7071.53,30425.09,Shipped,2024-12-12
+Aditya Ghosh,Kolkata,194,2024-12-08,Wireless Headphones,1,10671.48,30425.09,Shipped,2024-12-12
+Karan Ghosh,Lucknow,195,2023-11-30,Classic Mixer,3,2199.51,11947.83,Pending,2023-12-05
+Karan Ghosh,Lucknow,195,2023-11-30,Digital Backpack,5,1069.86,11947.83,Pending,2023-12-05
+Sanjay Patel,Mumbai,196,2024-08-04,Pro Watch,4,2461.61,26151.32,Pending,2024-08-10
+Sanjay Patel,Mumbai,196,2024-08-04,Ultra Mixer,4,4076.22,26151.32,Pending,2024-08-10
+Sanjay Reddy,Kolkata,197,2023-05-23,Premium Headphones,2,3126.72,10424.3,Shipped,2023-05-31
+Sanjay Reddy,Kolkata,197,2023-05-23,Portable Bottle,1,4170.86,10424.3,Shipped,2023-05-31
+Aditya Pillai,Ahmedabad,198,2023-12-05,Portable Book,3,8035.82,46762.3,Pending,2023-12-14
+Aditya Pillai,Ahmedabad,198,2023-12-05,Premium Shoes,4,5663.71,46762.3,Pending,2023-12-14
+Vikram Verma,Mumbai,200,2024-02-05,Ultra Shoes,2,5081.4,10162.8,Shipped,2024-02-08
+Pooja Ghosh,Bengaluru,201,2024-02-05,Premium Headphones,4,9180.26,36721.04,Cancelled,2024-02-15
+Vikram Patel,Lucknow,202,2024-01-31,Eco Backpack,4,4906.1,52661.44,Shipped,2024-02-07
+Vikram Patel,Lucknow,202,2024-01-31,Comfort T-Shirt,4,8259.26,52661.44,Shipped,2024-02-07
+Ritu Chopra,Chennai,204,2024-04-07,Digital Bottle,5,488.92,47315.06,Pending,2024-04-15
+Ritu Chopra,Chennai,204,2024-04-07,Ultra Book,2,2369.53,47315.06,Pending,2024-04-15
+Ritu Chopra,Chennai,204,2024-04-07,Premium Mixer,5,8026.28,47315.06,Pending,2024-04-15
+Arjun Kulkarni,Mumbai,205,2023-06-25,Ultra Backpack,2,2512.86,5025.72,Delivered,2023-06-27
+Ritu Khan,Jaipur,206,2024-07-20,Ultra Backpack,3,6572.35,70907.23,In Transit,2024-07-25
+Ritu Khan,Jaipur,206,2024-07-20,Ultra T-Shirt,5,8635.53,70907.23,In Transit,2024-07-25
+Ritu Khan,Jaipur,206,2024-07-20,Eco Shoes,1,8012.53,70907.23,In Transit,2024-07-25
+Sanjay Khan,Ahmedabad,207,2024-12-06,Pro Lamp,1,1646.9,1646.9,Delivered,2024-12-10
+Aditya Sharma,Chennai,208,2023-01-28,Comfort Keyboard,5,2308.41,11542.05,Pending,2023-02-05
+Deepak Singh,Jaipur,209,2023-03-13,Portable Backpack,5,9317.05,65925.23,In Transit,2023-03-18
+Deepak Singh,Jaipur,209,2023-03-13,Comfort Backpack,3,4775.59,65925.23,In Transit,2023-03-18
+Deepak Singh,Jaipur,209,2023-03-13,Digital Headphones,3,1671.07,65925.23,In Transit,2023-03-18
+Rahul Khan,Pune,210,2023-07-30,Pro T-Shirt,5,3485.35,28572.5,Shipped,2023-08-02
+Rahul Khan,Pune,210,2023-07-30,Wireless T-Shirt,5,1469.41,28572.5,Shipped,2023-08-02
+Rahul Khan,Pune,210,2023-07-30,Pro T-Shirt,1,3798.7,28572.5,Shipped,2023-08-02
+Anita Iyer,Pune,211,2024-11-06,Pro Headphones,4,3215.01,12860.04,Cancelled,2024-11-09
+Pooja Verma,Lucknow,212,2024-04-10,Eco Keyboard,3,7662.87,22988.61,Delivered,2024-04-18
+Neha Sharma,Lucknow,214,2023-12-01,Eco Shoes,2,8136.91,20637.14,Delivered,2023-12-09
+Neha Sharma,Lucknow,214,2023-12-01,Smart Keyboard,2,2181.66,20637.14,Delivered,2023-12-09
+Isha Das,Lucknow,215,2023-06-10,Portable Watch,2,6915.79,66414.68,Shipped,2023-06-16
+Isha Das,Lucknow,215,2023-06-10,Pro Keyboard,5,6102.64,66414.68,Shipped,2023-06-16
+Isha Das,Lucknow,215,2023-06-10,Pro Mixer,5,4413.98,66414.68,Shipped,2023-06-16
+Anita Sharma,Ahmedabad,216,2024-07-03,Wireless Backpack,1,6695.91,9109.22,Shipped,2024-07-11
+Anita Sharma,Ahmedabad,216,2024-07-03,Ultra Backpack,1,2413.31,9109.22,Shipped,2024-07-11
+Isha Singh,Pune,217,2023-03-12,Classic Mixer,3,10551.24,31653.72,Pending,2023-03-15
+Rohan Naidu,Bengaluru,218,2023-07-31,Premium Backpack,1,7277.08,27568.96,Delivered,2023-08-05
+Rohan Naidu,Bengaluru,218,2023-07-31,Digital Watch,3,6763.96,27568.96,Delivered,2023-08-05
+Tanvi Naidu,Pune,219,2023-07-30,Portable Shoes,4,4377.49,63779.48,In Transit,2023-08-07
+Tanvi Naidu,Pune,219,2023-07-30,Eco Book,1,1483.39,63779.48,In Transit,2023-08-07
+Tanvi Naidu,Pune,219,2023-07-30,Comfort Keyboard,3,1418.95,63779.48,In Transit,2023-08-07
+Tanvi Naidu,Pune,219,2023-07-30,Eco Headphones,3,3800.05,63779.48,In Transit,2023-08-07
+Tanvi Naidu,Pune,219,2023-07-30,Portable Watch,3,9709.71,63779.48,In Transit,2023-08-07
+Varun Gupta,Mumbai,220,2024-12-27,Classic Backpack,5,387.78,17395.24,Pending,2024-12-31
+Varun Gupta,Mumbai,220,2024-12-27,Pro Bottle,2,7728.17,17395.24,Pending,2024-12-31
+Pooja Das,Mumbai,221,2024-09-10,Eco Lamp,2,8738.11,58349.66,Shipped,2024-09-17
+Pooja Das,Mumbai,221,2024-09-10,Comfort Mixer,2,1484.33,58349.66,Shipped,2024-09-17
+Pooja Das,Mumbai,221,2024-09-10,Eco Backpack,3,6988.57,58349.66,Shipped,2024-09-17
+Pooja Das,Mumbai,221,2024-09-10,Pro Keyboard,4,4087.81,58349.66,Shipped,2024-09-17
+Pooja Das,Mumbai,221,2024-09-10,Classic Watch,1,587.83,58349.66,Shipped,2024-09-17
+Neha Pillai,Hyderabad,222,2023-11-14,Digital Shoes,3,4178.76,12536.28,Delivered,2023-11-20
+Kavya Yadav,Pune,223,2024-05-29,Pro Watch,4,2608.26,10433.04,Pending,2024-06-02
+Sneha Ghosh,Jaipur,224,2023-07-26,Digital Mixer,5,3675.01,23993.61,Pending,2023-07-31
+Sneha Ghosh,Jaipur,224,2023-07-26,Pro Backpack,1,5618.56,23993.61,Pending,2023-07-31
+Amit Shetty,Mumbai,225,2024-04-01,Wireless Lamp,4,8679.63,55109.2,Delivered,2024-04-03
+Amit Shetty,Mumbai,225,2024-04-01,Ultra Book,4,5097.67,55109.2,Delivered,2024-04-03
+Kavya Khan,Bengaluru,226,2024-02-13,Wireless Watch,4,5519.68,53460.42,Delivered,2024-02-22
+Kavya Khan,Bengaluru,226,2024-02-13,Ultra Bottle,3,7830.94,53460.42,Delivered,2024-02-22
+Kavya Khan,Bengaluru,226,2024-02-13,Comfort Keyboard,4,1972.22,53460.42,Delivered,2024-02-22
+Ritu Kulkarni,Kolkata,228,2024-08-05,Ultra Headphones,4,7224.86,28899.44,In Transit,2024-08-10
+Anita Das,Jaipur,229,2024-04-18,Comfort Watch,3,7276.09,31655.74,Pending,2024-04-26
+Anita Das,Jaipur,229,2024-04-18,Portable Lamp,1,2675.37,31655.74,Pending,2024-04-26
+Anita Das,Jaipur,229,2024-04-18,Portable Keyboard,5,911.5,31655.74,Pending,2024-04-26
+Anita Das,Jaipur,229,2024-04-18,Wireless Mixer,2,1297.3,31655.74,Pending,2024-04-26
+Varun Verma,Ahmedabad,230,2023-04-04,Wireless Book,4,2738.85,10955.4,Cancelled,2023-04-14
+Pooja Yadav,Delhi,231,2024-04-12,Pro Book,2,7724.25,50122.2,Cancelled,2024-04-16
+Pooja Yadav,Delhi,231,2024-04-12,Premium Headphones,5,6934.74,50122.2,Cancelled,2024-04-16
+Neha Nair,Chennai,232,2024-12-29,Digital Shoes,5,716.64,14625.65,Pending,2025-01-02
+Neha Nair,Chennai,232,2024-12-29,Classic Watch,5,2208.49,14625.65,Pending,2025-01-02
+Isha Das,Lucknow,233,2024-09-19,Classic Lamp,2,4537.17,16244.94,Cancelled,2024-09-26
+Isha Das,Lucknow,233,2024-09-19,Comfort Book,1,5935.8,16244.94,Cancelled,2024-09-26
+Isha Das,Lucknow,233,2024-09-19,Eco Mixer,5,246.96,16244.94,Cancelled,2024-09-26
+Arjun Sharma,Lucknow,234,2023-09-13,Portable Shoes,4,8966.73,35866.92,In Transit,2023-09-17
+Arjun Chopra,Hyderabad,235,2024-09-24,Portable Headphones,4,5419.38,36225.64,Delivered,2024-09-30
+Arjun Chopra,Hyderabad,235,2024-09-24,Premium Headphones,3,2885.92,36225.64,Delivered,2024-09-30
+Arjun Chopra,Hyderabad,235,2024-09-24,Digital Backpack,2,2945.18,36225.64,Delivered,2024-09-30
+Vikram Naidu,Hyderabad,236,2024-01-29,Comfort Book,2,2345.89,5554.74,In Transit,2024-02-03
+Vikram Naidu,Hyderabad,236,2024-01-29,Premium Watch,2,431.48,5554.74,In Transit,2024-02-03
+Sneha Kulkarni,Ahmedabad,237,2024-08-05,Eco Bottle,1,5430.99,55012.91,Shipped,2024-08-14
+Sneha Kulkarni,Ahmedabad,237,2024-08-05,Ultra Mixer,2,2152.48,55012.91,Shipped,2024-08-14
+Sneha Kulkarni,Ahmedabad,237,2024-08-05,Pro Keyboard,5,4519.65,55012.91,Shipped,2024-08-14
+Sneha Kulkarni,Ahmedabad,237,2024-08-05,Pro Watch,3,7559.57,55012.91,Shipped,2024-08-14
+Neha Reddy,Hyderabad,238,2024-12-16,Ultra Shoes,1,2811.19,2811.19,Delivered,2024-12-23
+Rahul Bhat,Pune,239,2023-06-11,Digital Bottle,1,1437.76,10886.21,Pending,2023-06-15
+Rahul Bhat,Pune,239,2023-06-11,Comfort Bottle,1,9448.45,10886.21,Pending,2023-06-15
+Rahul Kulkarni,Lucknow,240,2024-10-05,Pro Bottle,5,4059.18,55544.86,Shipped,2024-10-08
+Rahul Kulkarni,Lucknow,240,2024-10-05,Wireless Lamp,4,8812.24,55544.86,Shipped,2024-10-08
+Anita Iyer,Pune,241,2024-11-13,Premium Shoes,1,4986.63,4986.63,Cancelled,2024-11-17
+Sneha Kulkarni,Ahmedabad,242,2023-08-11,Eco Lamp,5,2792.88,28139.9,Shipped,2023-08-18
+Sneha Kulkarni,Ahmedabad,242,2023-08-11,Ultra Backpack,2,7087.75,28139.9,Shipped,2023-08-18
+Varun Singh,Bengaluru,243,2024-07-20,Wireless Bottle,2,4798.73,130583.09,Shipped,2024-07-28
+Varun Singh,Bengaluru,243,2024-07-20,Comfort Backpack,5,8144.47,130583.09,Shipped,2024-07-28
+Varun Singh,Bengaluru,243,2024-07-20,Comfort Book,5,10371.84,130583.09,Shipped,2024-07-28
+Varun Singh,Bengaluru,243,2024-07-20,Pro Watch,2,6271.93,130583.09,Shipped,2024-07-28
+Varun Singh,Bengaluru,243,2024-07-20,Eco Lamp,3,5286.74,130583.09,Shipped,2024-07-28
+Kavya Ghosh,Bengaluru,244,2023-03-20,Digital Mixer,5,1243.85,6219.25,Delivered,2023-03-28
+Ritu Verma,Jaipur,245,2023-11-30,Premium Mixer,1,4602.06,27033.07,Cancelled,2023-12-09
+Ritu Verma,Jaipur,245,2023-11-30,Premium Backpack,2,7811.04,27033.07,Cancelled,2023-12-09
+Ritu Verma,Jaipur,245,2023-11-30,Smart Watch,1,6808.93,27033.07,Cancelled,2023-12-09
+Ritu Nair,Lucknow,246,2023-06-18,Ultra Bottle,5,3563.79,39051.35,In Transit,2023-06-23
+Ritu Nair,Lucknow,246,2023-06-18,Wireless Bottle,5,339.71,39051.35,In Transit,2023-06-23
+Ritu Nair,Lucknow,246,2023-06-18,Ultra Shoes,3,1518.45,39051.35,In Transit,2023-06-23
+Ritu Nair,Lucknow,246,2023-06-18,Comfort Shoes,2,7489.25,39051.35,In Transit,2023-06-23
+Meera Bose,Hyderabad,248,2023-01-28,Pro T-Shirt,3,3083.84,33718.9,In Transit,2023-02-05
+Meera Bose,Hyderabad,248,2023-01-28,Comfort Book,2,2672.53,33718.9,In Transit,2023-02-05
+Meera Bose,Hyderabad,248,2023-01-28,Ultra Bottle,4,4780.58,33718.9,In Transit,2023-02-05
+Sneha Mehta,Pune,249,2024-12-12,Premium Headphones,2,8628.36,17256.72,Pending,2024-12-19
+Karan Khan,Bengaluru,250,2023-12-18,Smart Book,3,9100.23,50851.32,Shipped,2023-12-21
+Karan Khan,Bengaluru,250,2023-12-18,Premium Book,3,7850.21,50851.32,Shipped,2023-12-21
+Ritu Singh,Pune,251,2023-07-19,Portable Mixer,1,1566.79,52824.73,Cancelled,2023-07-21
+Ritu Singh,Pune,251,2023-07-19,Wireless Lamp,4,8244.71,52824.73,Cancelled,2023-07-21
+Ritu Singh,Pune,251,2023-07-19,Digital Mixer,5,3655.82,52824.73,Cancelled,2023-07-21
+Deepak Shetty,Ahmedabad,252,2023-01-11,Classic Headphones,2,5749.16,11498.32,In Transit,2023-01-16
+Karan Kulkarni,Jaipur,253,2024-12-27,Premium Keyboard,1,8414.05,8414.05,Pending,2025-01-05
+Neha Sharma,Bengaluru,254,2024-11-17,Comfort Watch,2,7593.77,50757.91,Cancelled,2024-11-23
+Neha Sharma,Bengaluru,254,2024-11-17,Comfort Keyboard,4,2121.9,50757.91,Cancelled,2024-11-23
+Neha Sharma,Bengaluru,254,2024-11-17,Eco Keyboard,3,5685.14,50757.91,Cancelled,2024-11-23
+Neha Sharma,Bengaluru,254,2024-11-17,Classic Mixer,5,2005.47,50757.91,Cancelled,2024-11-23
+Ritu Das,Hyderabad,256,2024-07-15,Digital Mixer,3,1364.46,13629.82,In Transit,2024-07-23
+Ritu Das,Hyderabad,256,2024-07-15,Portable Headphones,4,2384.11,13629.82,In Transit,2024-07-23
+Rohan Ghosh,Chennai,257,2024-03-24,Eco Keyboard,3,1360.16,39481.69,Cancelled,2024-03-31
+Rohan Ghosh,Chennai,257,2024-03-24,Pro Book,3,9308.08,39481.69,Cancelled,2024-03-31
+Rohan Ghosh,Chennai,257,2024-03-24,Smart Watch,4,739.34,39481.69,Cancelled,2024-03-31
+Rohan Ghosh,Chennai,257,2024-03-24,Wireless Bottle,1,4519.61,39481.69,Cancelled,2024-03-31
+Neha Mehta,Bengaluru,258,2023-10-13,Smart Keyboard,2,5925.66,101807.7,In Transit,2023-10-19
+Neha Mehta,Bengaluru,258,2023-10-13,Digital T-Shirt,5,7734.49,101807.7,In Transit,2023-10-19
+Neha Mehta,Bengaluru,258,2023-10-13,Digital Watch,5,5741.54,101807.7,In Transit,2023-10-19
+Neha Mehta,Bengaluru,258,2023-10-13,Pro Watch,3,7525.41,101807.7,In Transit,2023-10-19
+Pooja Ghosh,Hyderabad,260,2023-07-01,Classic Headphones,4,6920.52,27682.08,Pending,2023-07-06
+Meera Singh,Jaipur,261,2024-07-01,Classic Headphones,5,8098.25,55767.77,Shipped,2024-07-09
+Meera Singh,Jaipur,261,2024-07-01,Wireless T-Shirt,2,7638.26,55767.77,Shipped,2024-07-09
+Pooja Yadav,Lucknow,262,2023-03-21,Wireless Headphones,2,6083.86,12167.72,In Transit,2023-03-27
+Sneha Sharma,Ahmedabad,264,2024-01-02,Premium Book,5,6108.68,74984.48,Delivered,2024-01-10
+Sneha Sharma,Ahmedabad,264,2024-01-02,Pro Book,1,8952.09,74984.48,Delivered,2024-01-10
+Sneha Sharma,Ahmedabad,264,2024-01-02,Pro Mixer,2,5005.16,74984.48,Delivered,2024-01-10
+Sneha Sharma,Ahmedabad,264,2024-01-02,Comfort Backpack,3,8492.89,74984.48,Delivered,2024-01-10
+Priya Reddy,Ahmedabad,266,2024-03-28,Ultra Watch,5,9171.34,60010.0,Cancelled,2024-04-01
+Priya Reddy,Ahmedabad,266,2024-03-28,Classic Bottle,5,2830.66,60010.0,Cancelled,2024-04-01
+Priya Shetty,Delhi,267,2024-10-12,Pro Keyboard,3,4318.23,55375.17,Cancelled,2024-10-20
+Priya Shetty,Delhi,267,2024-10-12,Ultra Headphones,2,9259.28,55375.17,Cancelled,2024-10-20
+Priya Shetty,Delhi,267,2024-10-12,Classic Headphones,4,5975.48,55375.17,Cancelled,2024-10-20
+Kavya Mehta,Mumbai,268,2024-11-09,Premium Mixer,4,4640.53,18562.12,Delivered,2024-11-11
+Deepak Shetty,Pune,269,2024-12-07,Portable Backpack,5,7726.83,46796.4,Shipped,2024-12-13
+Deepak Shetty,Pune,269,2024-12-07,Classic Keyboard,5,1632.45,46796.4,Shipped,2024-12-13
+Vikram Ghosh,Ahmedabad,270,2023-02-23,Portable Watch,1,3969.05,34744.45,Delivered,2023-03-01
+Vikram Ghosh,Ahmedabad,270,2023-02-23,Smart Shoes,3,9218.75,34744.45,Delivered,2023-03-01
+Vikram Ghosh,Ahmedabad,270,2023-02-23,Classic Book,5,623.83,34744.45,Delivered,2023-03-01
+Pooja Sharma,Kolkata,271,2023-02-19,Ultra Shoes,2,5810.73,11621.46,In Transit,2023-02-23
+Pooja Khan,Lucknow,272,2023-07-26,Smart Mixer,4,7959.62,57472.16,Shipped,2023-07-31
+Pooja Khan,Lucknow,272,2023-07-26,Pro Backpack,4,6408.42,57472.16,Shipped,2023-07-31
+Rahul Patel,Chennai,273,2023-09-02,Digital Headphones,5,9105.51,51008.71,Cancelled,2023-09-09
+Rahul Patel,Chennai,273,2023-09-02,Portable Book,2,2740.58,51008.71,Cancelled,2023-09-09
+Varun Bose,Mumbai,274,2023-01-17,Eco T-Shirt,3,3020.96,23135.52,Shipped,2023-01-23
+Varun Bose,Mumbai,274,2023-01-17,Portable Mixer,3,4690.88,23135.52,Shipped,2023-01-23
+Rohan Mehta,Pune,275,2023-01-15,Classic Lamp,2,7320.98,14641.96,Pending,2023-01-19
+Meera Shetty,Mumbai,276,2023-07-16,Eco Backpack,1,4688.6,4688.6,Pending,2023-07-24
+Karan Kulkarni,Pune,277,2023-04-09,Pro Backpack,1,1922.18,1922.18,Delivered,2023-04-15
+Arjun Sharma,Lucknow,279,2024-06-08,Pro Mixer,5,5481.23,47823.58,In Transit,2024-06-11
+Arjun Sharma,Lucknow,279,2024-06-08,Wireless Headphones,3,6805.81,47823.58,In Transit,2024-06-11
+Amit Verma,Jaipur,280,2023-12-01,Pro Backpack,3,1983.75,37527.58,In Transit,2023-12-06
+Amit Verma,Jaipur,280,2023-12-01,Classic T-Shirt,5,4557.55,37527.58,In Transit,2023-12-06
+Amit Verma,Jaipur,280,2023-12-01,Pro Mixer,1,8788.58,37527.58,In Transit,2023-12-06
+Arjun Singh,Chennai,281,2024-10-03,Classic Bottle,3,8368.71,25106.13,Cancelled,2024-10-11
+Anita Das,Delhi,282,2023-08-01,Eco Lamp,3,5333.65,40991.85,Shipped,2023-08-08
+Anita Das,Delhi,282,2023-08-01,Ultra Watch,5,4998.18,40991.85,Shipped,2023-08-08
+Meera Yadav,Jaipur,283,2024-03-14,Classic Book,2,4956.85,10366.91,Cancelled,2024-03-16
+Meera Yadav,Jaipur,283,2024-03-14,Eco Book,3,151.07,10366.91,Cancelled,2024-03-16
+Rahul Iyer,Bengaluru,284,2023-08-07,Digital Watch,3,10442.84,47496.48,Delivered,2023-08-12
+Rahul Iyer,Bengaluru,284,2023-08-07,Ultra Headphones,2,8083.98,47496.48,Delivered,2023-08-12
+Rohan Naidu,Jaipur,286,2024-02-16,Digital Mixer,1,1368.55,22373.27,Cancelled,2024-02-22
+Rohan Naidu,Jaipur,286,2024-02-16,Pro Mixer,4,5251.18,22373.27,Cancelled,2024-02-22
+Deepak Kulkarni,Hyderabad,287,2024-02-03,Premium Keyboard,2,7788.74,15577.48,In Transit,2024-02-13
+Vikram Naidu,Hyderabad,288,2023-08-14,Wireless Watch,2,6512.49,34168.26,Pending,2023-08-16
+Vikram Naidu,Hyderabad,288,2023-08-14,Classic Lamp,4,3985.98,34168.26,Pending,2023-08-16
+Vikram Naidu,Hyderabad,288,2023-08-14,Wireless T-Shirt,4,809.87,34168.26,Pending,2023-08-16
+Vikram Naidu,Hyderabad,288,2023-08-14,Comfort Shoes,1,1959.88,34168.26,Pending,2023-08-16
+Priya Sharma,Pune,289,2023-10-13,Wireless Lamp,5,9504.63,89565.73,Delivered,2023-10-20
+Priya Sharma,Pune,289,2023-10-13,Portable Backpack,1,8603.66,89565.73,Delivered,2023-10-20
+Priya Sharma,Pune,289,2023-10-13,Comfort Watch,4,8359.73,89565.73,Delivered,2023-10-20
+Kavya Ghosh,Bengaluru,290,2023-02-14,Eco Bottle,4,4379.33,17517.32,In Transit,2023-02-24
+Kavya Bose,Pune,291,2023-08-12,Wireless Mixer,3,498.14,42707.92,Cancelled,2023-08-21
+Kavya Bose,Pune,291,2023-08-12,Digital Book,4,1449.64,42707.92,Cancelled,2023-08-21
+Kavya Bose,Pune,291,2023-08-12,Wireless Lamp,3,8731.36,42707.92,Cancelled,2023-08-21
+Kavya Bose,Pune,291,2023-08-12,Ultra Watch,1,9220.86,42707.92,Cancelled,2023-08-21
+Rahul Bhat,Mumbai,292,2024-09-05,Smart Bottle,1,654.98,36676.88,Cancelled,2024-09-14
+Rahul Bhat,Mumbai,292,2024-09-05,Comfort Book,2,4508.05,36676.88,Cancelled,2024-09-14
+Rahul Bhat,Mumbai,292,2024-09-05,Pro Watch,4,6751.45,36676.88,Cancelled,2024-09-14
+Varun Kulkarni,Mumbai,293,2024-12-30,Digital Backpack,1,3037.18,3037.18,Pending,2025-01-05
+Amit Sharma,Jaipur,294,2024-08-05,Comfort Keyboard,2,1539.04,3078.08,Pending,2024-08-11
+Deepak Verma,Chennai,295,2023-04-08,Portable Bottle,5,691.97,4443.09,Cancelled,2023-04-13
+Deepak Verma,Chennai,295,2023-04-08,Digital Bottle,2,491.62,4443.09,Cancelled,2023-04-13
+Sanjay Bhat,Kolkata,296,2024-10-08,Eco Lamp,3,9572.75,47934.34,Pending,2024-10-16
+Sanjay Bhat,Kolkata,296,2024-10-08,Premium Headphones,2,3356.42,47934.34,Pending,2024-10-16
+Sanjay Bhat,Kolkata,296,2024-10-08,Pro Backpack,3,1637.76,47934.34,Pending,2024-10-16
+Sanjay Bhat,Kolkata,296,2024-10-08,Digital Bottle,4,1706.43,47934.34,Pending,2024-10-16
+Sanjay Bhat,Kolkata,296,2024-10-08,Digital Book,1,764.25,47934.34,Pending,2024-10-16
+Arjun Patel,Mumbai,297,2024-12-11,Ultra Headphones,1,9287.49,23873.08,Cancelled,2024-12-19
+Arjun Patel,Mumbai,297,2024-12-11,Comfort Shoes,1,6588.32,23873.08,Cancelled,2024-12-19
+Arjun Patel,Mumbai,297,2024-12-11,Wireless Watch,1,7997.27,23873.08,Cancelled,2024-12-19
+Meera Bhat,Lucknow,298,2023-06-29,Portable Keyboard,4,6209.58,43288.05,Delivered,2023-07-04
+Meera Bhat,Lucknow,298,2023-06-29,Digital Backpack,3,6149.91,43288.05,Delivered,2023-07-04
+Karan Das,Hyderabad,299,2024-11-13,Pro Headphones,2,6483.78,12967.56,Shipped,2024-11-20
+Priya Patel,Lucknow,300,2023-12-10,Comfort Keyboard,5,10427.91,52139.55,In Transit,2023-12-14
+Neha Bhat,Lucknow,301,2024-08-22,Portable Lamp,5,4993.31,30750.13,Delivered,2024-08-29
+Neha Bhat,Lucknow,301,2024-08-22,Pro Mixer,3,1927.86,30750.13,Delivered,2024-08-29
+Karan Khan,Bengaluru,302,2024-06-07,Eco Mixer,5,3601.09,18005.45,In Transit,2024-06-16
+Varun Naidu,Ahmedabad,303,2024-08-24,Classic Watch,1,623.42,623.42,Delivered,2024-08-29
+Sneha Reddy,Hyderabad,305,2023-05-08,Eco Shoes,5,7529.67,37648.35,Cancelled,2023-05-15
+Priya Yadav,Delhi,306,2024-03-14,Premium Backpack,1,7497.03,8959.89,Shipped,2024-03-21
+Priya Yadav,Delhi,306,2024-03-14,Smart Watch,2,731.43,8959.89,Shipped,2024-03-21
+Aditya Naidu,Kolkata,307,2023-03-23,Comfort Bottle,2,5389.83,10779.66,In Transit,2023-03-27
+Aditya Naidu,Bengaluru,308,2024-01-19,Comfort T-Shirt,2,7691.07,30510.12,In Transit,2024-01-24
+Aditya Naidu,Bengaluru,308,2024-01-19,Ultra Mixer,1,2056.43,30510.12,In Transit,2024-01-24
+Aditya Naidu,Bengaluru,308,2024-01-19,Pro Mixer,5,2614.31,30510.12,In Transit,2024-01-24
+Rohan Verma,Chennai,310,2023-07-29,Classic Backpack,1,397.58,14256.0,Shipped,2023-08-08
+Rohan Verma,Chennai,310,2023-07-29,Digital Watch,2,6929.21,14256.0,Shipped,2023-08-08
+Priya Yadav,Delhi,311,2024-09-04,Digital Bottle,5,7701.89,40260.38,Delivered,2024-09-09
+Priya Yadav,Delhi,311,2024-09-04,Smart Bottle,1,1750.93,40260.38,Delivered,2024-09-09
+Rahul Bhat,Kolkata,312,2023-12-03,Pro Mixer,1,7054.08,7054.08,In Transit,2023-12-10
+Rahul Bose,Pune,313,2023-11-22,Ultra Backpack,1,7621.11,35288.31,Pending,2023-11-27
+Rahul Bose,Pune,313,2023-11-22,Classic Mixer,3,9222.4,35288.31,Pending,2023-11-27
+Amit Das,Mumbai,314,2024-02-29,Comfort Watch,4,2072.42,10332.01,In Transit,2024-03-07
+Amit Das,Mumbai,314,2024-02-29,Wireless Headphones,1,2042.33,10332.01,In Transit,2024-03-07
+Anita Chopra,Lucknow,315,2023-01-25,Comfort Watch,3,9169.07,61365.33,Cancelled,2023-02-02
+Anita Chopra,Lucknow,315,2023-01-25,Smart Keyboard,3,5850.52,61365.33,Cancelled,2023-02-02
+Anita Chopra,Lucknow,315,2023-01-25,Wireless Mixer,3,588.06,61365.33,Cancelled,2023-02-02
+Anita Chopra,Lucknow,315,2023-01-25,Portable Book,2,7271.19,61365.33,Cancelled,2023-02-02
+Anita Shetty,Bengaluru,316,2023-12-06,Digital T-Shirt,3,8595.83,64111.68,Pending,2023-12-15
+Anita Shetty,Bengaluru,316,2023-12-06,Premium Mixer,1,1891.15,64111.68,Pending,2023-12-15
+Anita Shetty,Bengaluru,316,2023-12-06,Digital Bottle,1,1405.04,64111.68,Pending,2023-12-15
+Anita Shetty,Bengaluru,316,2023-12-06,Comfort Book,5,7005.6,64111.68,Pending,2023-12-15
+Sneha Yadav,Kolkata,319,2024-12-04,Pro Backpack,3,2835.2,8505.6,Shipped,2024-12-11
+Neha Bhat,Lucknow,320,2024-01-26,Comfort Book,3,6398.44,35594.04,In Transit,2024-02-02
+Neha Bhat,Lucknow,320,2024-01-26,Classic Bottle,2,8199.36,35594.04,In Transit,2024-02-02
+Rohan Pillai,Jaipur,321,2023-07-07,Pro Mixer,2,7133.95,24104.74,Shipped,2023-07-11
+Rohan Pillai,Jaipur,321,2023-07-07,Eco Lamp,2,4918.42,24104.74,Shipped,2023-07-11
+Aditya Mehta,Pune,322,2023-01-07,Portable Bottle,1,7827.17,22110.22,Cancelled,2023-01-10
+Aditya Mehta,Pune,322,2023-01-07,Classic T-Shirt,3,1000.23,22110.22,Cancelled,2023-01-10
+Aditya Mehta,Pune,322,2023-01-07,Wireless Watch,2,5641.18,22110.22,Cancelled,2023-01-10
+Tanvi Naidu,Pune,323,2024-05-18,Ultra Watch,2,5784.84,53832.52,Delivered,2024-05-22
+Tanvi Naidu,Pune,323,2024-05-18,Comfort Watch,4,9424.78,53832.52,Delivered,2024-05-22
+Tanvi Naidu,Pune,323,2024-05-18,Eco Shoes,4,1140.93,53832.52,Delivered,2024-05-22
+Deepak Shetty,Jaipur,324,2023-07-17,Eco Book,4,8630.95,76901.58,Shipped,2023-07-21
+Deepak Shetty,Jaipur,324,2023-07-17,Ultra Backpack,1,6447.08,76901.58,Shipped,2023-07-21
+Deepak Shetty,Jaipur,324,2023-07-17,Portable Backpack,4,1163.44,76901.58,Shipped,2023-07-21
+Deepak Shetty,Jaipur,324,2023-07-17,Ultra Book,2,3830.41,76901.58,Shipped,2023-07-21
+Deepak Shetty,Jaipur,324,2023-07-17,Wireless Headphones,4,5904.03,76901.58,Shipped,2023-07-21
+Aditya Bhat,Lucknow,325,2023-05-25,Smart Lamp,2,1609.14,31548.16,Pending,2023-05-29
+Aditya Bhat,Lucknow,325,2023-05-25,Digital Bottle,3,1192.51,31548.16,Pending,2023-05-29
+Aditya Bhat,Lucknow,325,2023-05-25,Portable Watch,5,4950.47,31548.16,Pending,2023-05-29
+Ritu Pillai,Hyderabad,326,2023-04-04,Comfort Headphones,1,3210.15,3210.15,Cancelled,2023-04-07
+Varun Das,Hyderabad,327,2024-07-16,Portable Book,4,5733.48,46497.77,Cancelled,2024-07-24
+Varun Das,Hyderabad,327,2024-07-16,Portable Lamp,5,4712.77,46497.77,Cancelled,2024-07-24
+Neha Chopra,Delhi,329,2024-04-23,Eco Backpack,1,4970.14,22940.34,Cancelled,2024-05-03
+Neha Chopra,Delhi,329,2024-04-23,Portable Shoes,4,4492.55,22940.34,Cancelled,2024-05-03
+Anita Singh,Hyderabad,330,2023-07-22,Portable Mixer,2,8958.65,18577.41,In Transit,2023-07-31
+Anita Singh,Hyderabad,330,2023-07-22,Wireless Backpack,1,660.11,18577.41,In Transit,2023-07-31
+Varun Iyer,Hyderabad,331,2023-06-30,Digital Lamp,5,497.59,7652.27,In Transit,2023-07-07
+Varun Iyer,Hyderabad,331,2023-06-30,Wireless T-Shirt,4,1291.08,7652.27,In Transit,2023-07-07
+Anita Ghosh,Chennai,333,2024-04-04,Comfort Watch,5,7908.72,76901.68,Shipped,2024-04-09
+Anita Ghosh,Chennai,333,2024-04-04,Wireless Keyboard,2,8052.15,76901.68,Shipped,2024-04-09
+Anita Ghosh,Chennai,333,2024-04-04,Premium Bottle,3,3931.84,76901.68,Shipped,2024-04-09
+Anita Ghosh,Chennai,333,2024-04-04,Comfort Book,1,4658.46,76901.68,Shipped,2024-04-09
+Anita Ghosh,Chennai,333,2024-04-04,Portable Backpack,4,1199.95,76901.68,Shipped,2024-04-09
+Neha Gupta,Pune,335,2024-01-04,Comfort Backpack,3,4016.85,87364.44,Cancelled,2024-01-08
+Neha Gupta,Pune,335,2024-01-04,Pro Bottle,4,4004.4,87364.44,Cancelled,2024-01-08
+Neha Gupta,Pune,335,2024-01-04,Comfort Backpack,2,4608.64,87364.44,Cancelled,2024-01-08
+Neha Gupta,Pune,335,2024-01-04,Wireless Bottle,5,6855.57,87364.44,Cancelled,2024-01-08
+Neha Gupta,Pune,335,2024-01-04,Portable Watch,4,3950.29,87364.44,Cancelled,2024-01-08
+Vikram Bhat,Jaipur,336,2023-06-21,Digital Watch,3,7248.78,25747.28,Cancelled,2023-06-30
+Vikram Bhat,Jaipur,336,2023-06-21,Wireless Mixer,2,638.49,25747.28,Cancelled,2023-06-30
+Vikram Bhat,Jaipur,336,2023-06-21,Classic Mixer,2,1361.98,25747.28,Cancelled,2023-06-30
+Sneha Sharma,Ahmedabad,337,2024-03-08,Comfort Keyboard,2,7581.67,21196.68,Cancelled,2024-03-15
+Sneha Sharma,Ahmedabad,337,2024-03-08,Smart Headphones,2,3016.67,21196.68,Cancelled,2024-03-15
+Neha Patel,Bengaluru,338,2024-03-19,Digital Backpack,3,1490.61,41853.63,Delivered,2024-03-28
+Neha Patel,Bengaluru,338,2024-03-19,Comfort T-Shirt,3,1864.77,41853.63,Delivered,2024-03-28
+Neha Patel,Bengaluru,338,2024-03-19,Wireless Watch,4,1079.66,41853.63,Delivered,2024-03-28
+Neha Patel,Bengaluru,338,2024-03-19,Ultra Mixer,1,2557.6,41853.63,Delivered,2024-03-28
+Neha Patel,Bengaluru,338,2024-03-19,Premium Headphones,1,8130.11,41853.63,Delivered,2024-03-28
+Neha Patel,Bengaluru,338,2024-03-19,Portable Book,2,8390.57,41853.63,Delivered,2024-03-28
+Deepak Mehta,Pune,339,2024-05-08,Ultra Watch,1,3711.66,14360.82,Shipped,2024-05-13
+Deepak Mehta,Pune,339,2024-05-08,Eco Keyboard,3,3549.72,14360.82,Shipped,2024-05-13
+Aditya Ghosh,Kolkata,340,2024-01-26,Pro Headphones,1,7131.39,7131.39,Pending,2024-02-04
+Rohan Patel,Pune,341,2023-03-27,Portable Watch,5,3702.27,18511.35,Shipped,2023-04-06
+Sneha Khan,Ahmedabad,342,2024-07-04,Pro Book,4,7334.61,29338.44,In Transit,2024-07-08
+Arjun Iyer,Delhi,343,2023-06-29,Smart Book,5,5342.33,47584.76,Pending,2023-07-08
+Arjun Iyer,Delhi,343,2023-06-29,Comfort Headphones,3,5170.87,47584.76,Pending,2023-07-08
+Arjun Iyer,Delhi,343,2023-06-29,Portable Headphones,5,1072.1,47584.76,Pending,2023-07-08
+Priya Ghosh,Jaipur,344,2024-04-19,Comfort Shoes,4,5135.16,20540.64,Shipped,2024-04-27
+Arjun Singh,Chennai,346,2024-09-12,Smart Watch,5,1163.51,31863.71,Shipped,2024-09-18
+Arjun Singh,Chennai,346,2024-09-12,Portable Watch,4,6511.54,31863.71,Shipped,2024-09-18
+Anita Naidu,Chennai,348,2024-04-25,Comfort Keyboard,3,1621.05,4863.15,Cancelled,2024-04-29
+Varun Khan,Bengaluru,349,2023-07-14,Comfort Backpack,2,5478.25,18845.26,Pending,2023-07-22
+Varun Khan,Bengaluru,349,2023-07-14,Pro Bottle,2,3944.38,18845.26,Pending,2023-07-22
+Deepak Kulkarni,Hyderabad,350,2024-05-27,Classic Mixer,2,8170.36,62083.32,Delivered,2024-06-02
+Deepak Kulkarni,Hyderabad,350,2024-05-27,Portable Shoes,5,9148.52,62083.32,Delivered,2024-06-02
+Sneha Reddy,Delhi,351,2024-02-19,Eco Lamp,3,4914.99,14744.97,Cancelled,2024-02-23
+Karan Gupta,Hyderabad,353,2024-05-16,Classic Watch,2,8870.26,65510.38,Pending,2024-05-20
+Karan Gupta,Hyderabad,353,2024-05-16,Pro Mixer,1,7154.29,65510.38,Pending,2024-05-20
+Karan Gupta,Hyderabad,353,2024-05-16,Digital Keyboard,2,8722.13,65510.38,Pending,2024-05-20
+Karan Gupta,Hyderabad,353,2024-05-16,Ultra Shoes,3,7723.77,65510.38,Pending,2024-05-20
+Ritu Pillai,Hyderabad,356,2024-08-02,Digital Shoes,1,1905.1,29530.0,Shipped,2024-08-08
+Ritu Pillai,Hyderabad,356,2024-08-02,Portable Backpack,3,7326.45,29530.0,Shipped,2024-08-08
+Ritu Pillai,Hyderabad,356,2024-08-02,Portable Bottle,3,1881.85,29530.0,Shipped,2024-08-08
+Vikram Bose,Ahmedabad,357,2024-03-22,Wireless Watch,5,6028.75,31598.38,Pending,2024-03-29
+Vikram Bose,Ahmedabad,357,2024-03-22,Classic Keyboard,2,294.67,31598.38,Pending,2024-03-29
+Vikram Bose,Ahmedabad,357,2024-03-22,Classic Keyboard,3,288.43,31598.38,Pending,2024-03-29
+Karan Pillai,Pune,358,2023-12-23,Eco Lamp,3,7794.27,44448.73,Shipped,2023-12-30
+Karan Pillai,Pune,358,2023-12-23,Pro Mixer,5,2076.88,44448.73,Shipped,2023-12-30
+Karan Pillai,Pune,358,2023-12-23,Eco Shoes,4,1103.75,44448.73,Shipped,2023-12-30
+Karan Pillai,Pune,358,2023-12-23,Comfort Mixer,4,1566.63,44448.73,Shipped,2023-12-30
+Amit Chopra,Pune,359,2024-05-15,Wireless T-Shirt,3,5810.93,80683.29,Pending,2024-05-24
+Amit Chopra,Pune,359,2024-05-15,Pro T-Shirt,4,9938.85,80683.29,Pending,2024-05-24
+Amit Chopra,Pune,359,2024-05-15,Eco Backpack,5,4699.02,80683.29,Pending,2024-05-24
+Meera Shetty,Pune,360,2023-03-01,Premium Book,3,3637.03,62666.43,Cancelled,2023-03-06
+Meera Shetty,Pune,360,2023-03-01,Digital T-Shirt,3,6835.77,62666.43,Cancelled,2023-03-06
+Meera Shetty,Pune,360,2023-03-01,Premium Bottle,5,3530.06,62666.43,Cancelled,2023-03-06
+Meera Shetty,Pune,360,2023-03-01,Eco Mixer,1,9644.65,62666.43,Cancelled,2023-03-06
+Meera Shetty,Pune,360,2023-03-01,Ultra Watch,1,3953.08,62666.43,Cancelled,2023-03-06
+Rahul Patel,Jaipur,361,2024-03-10,Pro T-Shirt,4,7592.52,30370.08,Pending,2024-03-16
+Pooja Pillai,Lucknow,362,2024-05-04,Eco Book,1,1453.69,15062.43,In Transit,2024-05-11
+Pooja Pillai,Lucknow,362,2024-05-04,Pro Keyboard,5,1234.44,15062.43,In Transit,2024-05-11
+Pooja Pillai,Lucknow,362,2024-05-04,Eco Headphones,2,3718.27,15062.43,In Transit,2024-05-11
+Priya Nair,Lucknow,363,2024-01-06,Classic Mixer,5,5062.51,83404.52,Cancelled,2024-01-09
+Priya Nair,Lucknow,363,2024-01-06,Ultra Bottle,1,8946.52,83404.52,Cancelled,2024-01-09
+Priya Nair,Lucknow,363,2024-01-06,Portable Bottle,5,9829.09,83404.52,Cancelled,2024-01-09
+Sneha Kulkarni,Ahmedabad,364,2024-11-12,Smart Headphones,4,3173.21,14851.53,Delivered,2024-11-16
+Sneha Kulkarni,Ahmedabad,364,2024-11-12,Smart Keyboard,1,2158.69,14851.53,Delivered,2024-11-16
+Priya Mehta,Chennai,365,2024-09-11,Portable Watch,4,8437.03,63415.96,Cancelled,2024-09-17
+Priya Mehta,Chennai,365,2024-09-11,Comfort Backpack,4,5642.43,63415.96,Cancelled,2024-09-17
+Priya Mehta,Chennai,365,2024-09-11,Pro T-Shirt,2,3549.06,63415.96,Cancelled,2024-09-17
+Neha Bose,Lucknow,366,2024-11-28,Comfort Bottle,2,3804.89,18784.06,Shipped,2024-12-01
+Neha Bose,Lucknow,366,2024-11-28,Digital Book,2,5587.14,18784.06,Shipped,2024-12-01
+Ritu Reddy,Delhi,367,2023-09-11,Eco T-Shirt,1,7543.38,10928.62,Cancelled,2023-09-17
+Ritu Reddy,Delhi,367,2023-09-11,Wireless Headphones,4,846.31,10928.62,Cancelled,2023-09-17
+Aditya Verma,Mumbai,368,2024-11-09,Premium Backpack,3,559.65,1678.95,Shipped,2024-11-13
+Deepak Kulkarni,Hyderabad,369,2023-04-30,Portable Backpack,5,8267.34,55041.46,Shipped,2023-05-08
+Deepak Kulkarni,Hyderabad,369,2023-04-30,Premium Keyboard,2,6852.38,55041.46,Shipped,2023-05-08
+Rahul Patel,Ahmedabad,370,2024-12-29,Wireless Lamp,4,8595.35,70208.72,Shipped,2025-01-05
+Rahul Patel,Ahmedabad,370,2024-12-29,Smart Lamp,4,6872.91,70208.72,Shipped,2025-01-05
+Rahul Patel,Ahmedabad,370,2024-12-29,Premium Backpack,4,2083.92,70208.72,Shipped,2025-01-05
+Rahul Verma,Ahmedabad,371,2024-12-24,Premium Lamp,5,4516.02,62639.8,Pending,2024-12-30
+Rahul Verma,Ahmedabad,371,2024-12-24,Digital Keyboard,5,8011.94,62639.8,Pending,2024-12-30
+Varun Verma,Hyderabad,372,2023-03-24,Wireless Headphones,3,10167.83,52841.73,In Transit,2023-03-28
+Varun Verma,Hyderabad,372,2023-03-24,Smart Watch,2,3722.41,52841.73,In Transit,2023-03-28
+Varun Verma,Hyderabad,372,2023-03-24,Wireless Backpack,2,7446.71,52841.73,In Transit,2023-03-28
+Deepak Gupta,Lucknow,373,2023-07-13,Comfort Keyboard,3,1555.18,35071.32,Shipped,2023-07-22
+Deepak Gupta,Lucknow,373,2023-07-13,Classic T-Shirt,3,10135.26,35071.32,Shipped,2023-07-22
+Anita Singh,Hyderabad,374,2024-03-13,Pro T-Shirt,4,8677.82,77773.48,Delivered,2024-03-16
+Anita Singh,Hyderabad,374,2024-03-13,Smart Mixer,5,8612.44,77773.48,Delivered,2024-03-16
+Neha Gupta,Mumbai,376,2024-06-29,Ultra Headphones,2,9910.94,64091.64,Pending,2024-07-07
+Neha Gupta,Mumbai,376,2024-06-29,Pro Lamp,4,3338.69,64091.64,Pending,2024-07-07
+Neha Gupta,Mumbai,376,2024-06-29,Digital T-Shirt,4,7728.75,64091.64,Pending,2024-07-07
+Arjun Gupta,Bengaluru,377,2023-11-12,Portable Bottle,2,5990.95,45418.72,Shipped,2023-11-16
+Arjun Gupta,Bengaluru,377,2023-11-12,Comfort Shoes,5,1925.83,45418.72,Shipped,2023-11-16
+Arjun Gupta,Bengaluru,377,2023-11-12,Comfort Lamp,3,7935.89,45418.72,Shipped,2023-11-16
+Amit Bose,Pune,378,2023-04-02,Digital Bottle,5,1245.2,37796.98,Delivered,2023-04-06
+Amit Bose,Pune,378,2023-04-02,Ultra Mixer,3,4161.77,37796.98,Delivered,2023-04-06
+Amit Bose,Pune,378,2023-04-02,Pro Mixer,3,6361.89,37796.98,Delivered,2023-04-06
+Sneha Sharma,Bengaluru,379,2024-08-09,Digital Mixer,5,1301.97,14565.92,In Transit,2024-08-14
+Sneha Sharma,Bengaluru,379,2024-08-09,Ultra Headphones,1,8056.07,14565.92,In Transit,2024-08-14
+Ritu Reddy,Jaipur,380,2023-05-27,Ultra Shoes,3,6643.08,107393.53,Cancelled,2023-06-06
+Ritu Reddy,Jaipur,380,2023-05-27,Digital Backpack,1,6402.16,107393.53,Cancelled,2023-06-06
+Ritu Reddy,Jaipur,380,2023-05-27,Pro Mixer,1,896.43,107393.53,Cancelled,2023-06-06
+Ritu Reddy,Jaipur,380,2023-05-27,Premium Backpack,5,7015.39,107393.53,Cancelled,2023-06-06
+Ritu Reddy,Jaipur,380,2023-05-27,Eco Shoes,2,7834.7,107393.53,Cancelled,2023-06-06
+Ritu Reddy,Jaipur,380,2023-05-27,Eco Headphones,5,5883.87,107393.53,Cancelled,2023-06-06
+Karan Kulkarni,Lucknow,381,2023-08-03,Wireless Backpack,1,5073.85,26196.99,In Transit,2023-08-10
+Karan Kulkarni,Lucknow,381,2023-08-03,Eco Keyboard,1,7502.31,26196.99,In Transit,2023-08-10
+Karan Kulkarni,Lucknow,381,2023-08-03,Digital Mixer,5,722.38,26196.99,In Transit,2023-08-10
+Karan Kulkarni,Lucknow,381,2023-08-03,Smart Backpack,3,3336.31,26196.99,In Transit,2023-08-10
+Sneha Kulkarni,Ahmedabad,382,2023-11-12,Classic Bottle,4,9675.78,89944.49,Shipped,2023-11-21
+Sneha Kulkarni,Ahmedabad,382,2023-11-12,Portable Shoes,5,9123.25,89944.49,Shipped,2023-11-21
+Sneha Kulkarni,Ahmedabad,382,2023-11-12,Ultra Shoes,2,2812.56,89944.49,Shipped,2023-11-21
+Pooja Yadav,Lucknow,383,2024-05-18,Smart T-Shirt,5,2199.91,10999.55,Delivered,2024-05-23
+Pooja Bose,Mumbai,384,2023-03-13,Wireless Mixer,5,2157.8,111572.97,Delivered,2023-03-22
+Pooja Bose,Mumbai,384,2023-03-13,Comfort Backpack,4,7505.03,111572.97,Delivered,2023-03-22
+Pooja Bose,Mumbai,384,2023-03-13,Comfort Keyboard,5,6806.99,111572.97,Delivered,2023-03-22
+Pooja Bose,Mumbai,384,2023-03-13,Comfort Keyboard,5,7345.78,111572.97,Delivered,2023-03-22
+Rohan Bhat,Hyderabad,386,2024-03-17,Eco Backpack,2,4616.52,58458.76,Pending,2024-03-22
+Rohan Bhat,Hyderabad,386,2024-03-17,Smart Book,4,5381.2,58458.76,Pending,2024-03-22
+Rohan Bhat,Hyderabad,386,2024-03-17,Portable Backpack,4,4931.49,58458.76,Pending,2024-03-22
+Rohan Bhat,Hyderabad,386,2024-03-17,Premium Bottle,2,3987.48,58458.76,Pending,2024-03-22
+Pooja Chopra,Pune,387,2024-01-19,Digital Headphones,4,1691.94,6767.76,Delivered,2024-01-28
+Rahul Verma,Ahmedabad,388,2023-05-18,Smart Keyboard,2,1993.55,19938.6,Pending,2023-05-25
+Rahul Verma,Ahmedabad,388,2023-05-18,Portable Backpack,2,7975.75,19938.6,Pending,2023-05-25
+Varun Singh,Delhi,389,2023-07-06,Premium Keyboard,5,8043.68,40218.4,Pending,2023-07-09
+Sneha Nair,Chennai,390,2023-04-23,Digital Book,2,5582.93,11165.86,In Transit,2023-05-01
+Arjun Gupta,Pune,391,2023-08-06,Ultra Headphones,4,6717.05,26868.2,In Transit,2023-08-08
+Arjun Kulkarni,Jaipur,392,2023-03-02,Eco Bottle,4,5126.5,30582.0,Cancelled,2023-03-07
+Arjun Kulkarni,Jaipur,392,2023-03-02,Comfort Mixer,1,10076.0,30582.0,Cancelled,2023-03-07
+Aditya Bhat,Chennai,393,2023-07-16,Wireless T-Shirt,1,1408.47,35160.22,Cancelled,2023-07-26
+Aditya Bhat,Chennai,393,2023-07-16,Digital Keyboard,5,6750.35,35160.22,Cancelled,2023-07-26
+Ritu Bose,Pune,395,2024-10-01,Pro Watch,3,656.51,22452.92,Delivered,2024-10-04
+Ritu Bose,Pune,395,2024-10-01,Eco Shoes,2,7778.53,22452.92,Delivered,2024-10-04
+Ritu Bose,Pune,395,2024-10-01,Comfort Headphones,3,1642.11,22452.92,Delivered,2024-10-04
+Amit Bhat,Jaipur,396,2024-10-13,Digital T-Shirt,3,9827.95,130096.87,In Transit,2024-10-21
+Amit Bhat,Jaipur,396,2024-10-13,Ultra Headphones,2,9442.44,130096.87,In Transit,2024-10-21
+Amit Bhat,Jaipur,396,2024-10-13,Pro Mixer,3,1970.2,130096.87,In Transit,2024-10-21
+Amit Bhat,Jaipur,396,2024-10-13,Premium Keyboard,5,7499.59,130096.87,In Transit,2024-10-21
+Amit Bhat,Jaipur,396,2024-10-13,Pro Bottle,5,3720.58,130096.87,In Transit,2024-10-21
+Amit Bhat,Jaipur,396,2024-10-13,Pro Watch,3,6572.23,130096.87,In Transit,2024-10-21
+Rahul Yadav,Delhi,397,2023-10-28,Classic Lamp,4,4268.53,17074.12,Shipped,2023-11-03
+Vikram Bhat,Jaipur,398,2023-05-08,Comfort Bottle,2,6224.59,12449.18,Delivered,2023-05-10
+Rahul Bose,Kolkata,400,2023-08-29,Classic Lamp,1,3765.32,19042.3,Delivered,2023-09-03
+Rahul Bose,Kolkata,400,2023-08-29,Portable Book,2,5008.83,19042.3,Delivered,2023-09-03
+Rahul Bose,Kolkata,400,2023-08-29,Wireless T-Shirt,5,922.89,19042.3,Delivered,2023-09-03
+Rahul Bose,Kolkata,400,2023-08-29,Classic Watch,1,644.87,19042.3,Delivered,2023-09-03
+Ritu Ghosh,Kolkata,402,2023-03-04,Portable Bottle,5,6328.83,40355.16,Shipped,2023-03-11
+Ritu Ghosh,Kolkata,402,2023-03-04,Smart Lamp,1,1077.89,40355.16,Shipped,2023-03-11
+Ritu Ghosh,Kolkata,402,2023-03-04,Pro Mixer,4,1908.28,40355.16,Shipped,2023-03-11
+Anita Chopra,Lucknow,403,2023-01-08,Smart Watch,3,1966.53,5899.59,Cancelled,2023-01-15
+Meera Shetty,Pune,404,2023-02-12,Premium Book,4,3245.81,29820.84,In Transit,2023-02-20
+Meera Shetty,Pune,404,2023-02-12,Ultra Shoes,2,8418.8,29820.84,In Transit,2023-02-20
+Pooja Mehta,Mumbai,405,2024-06-18,Portable Bottle,1,8843.7,8843.7,Delivered,2024-06-23
+Rohan Verma,Chennai,406,2024-09-09,Comfort Watch,3,2080.46,6241.38,Delivered,2024-09-14
+Sanjay Sharma,Bengaluru,407,2023-09-30,Pro Keyboard,4,250.36,8708.32,Delivered,2023-10-07
+Sanjay Sharma,Bengaluru,407,2023-09-30,Pro Lamp,3,2568.96,8708.32,Delivered,2023-10-07
+Neha Sharma,Bengaluru,409,2023-12-11,Wireless Bottle,3,1663.79,8531.87,Shipped,2023-12-13
+Neha Sharma,Bengaluru,409,2023-12-11,Pro Shoes,5,708.1,8531.87,Shipped,2023-12-13
+Neha Nair,Kolkata,410,2023-12-18,Ultra Watch,3,4660.14,13980.42,Cancelled,2023-12-21
+Aditya Pillai,Chennai,411,2023-09-03,Eco Watch,3,1408.76,9455.82,In Transit,2023-09-11
+Aditya Pillai,Chennai,411,2023-09-03,Comfort Keyboard,2,2614.77,9455.82,In Transit,2023-09-11
+Arjun Shetty,Pune,412,2024-02-13,Comfort Book,2,4461.09,8922.18,In Transit,2024-02-21
+Neha Patel,Bengaluru,413,2023-02-28,Wireless T-Shirt,5,882.41,34092.31,Pending,2023-03-04
+Neha Patel,Bengaluru,413,2023-02-28,Ultra Watch,1,8353.5,34092.31,Pending,2023-03-04
+Neha Patel,Bengaluru,413,2023-02-28,Pro Headphones,3,7108.92,34092.31,Pending,2023-03-04
+Meera Naidu,Pune,414,2023-12-05,Premium Bottle,1,5125.99,59801.67,Cancelled,2023-12-08
+Meera Naidu,Pune,414,2023-12-05,Wireless Shoes,2,1080.55,59801.67,Cancelled,2023-12-08
+Meera Naidu,Pune,414,2023-12-05,Digital Keyboard,4,9171.72,59801.67,Cancelled,2023-12-08
+Meera Naidu,Pune,414,2023-12-05,Wireless Book,4,3051.9,59801.67,Cancelled,2023-12-08
+Meera Naidu,Pune,414,2023-12-05,Pro Lamp,1,3620.1,59801.67,Cancelled,2023-12-08
+Rahul Nair,Ahmedabad,415,2024-04-12,Digital Bottle,4,456.36,29829.58,Cancelled,2024-04-16
+Rahul Nair,Ahmedabad,415,2024-04-12,Smart Watch,1,1808.24,29829.58,Cancelled,2024-04-16
+Rahul Nair,Ahmedabad,415,2024-04-12,Ultra Headphones,5,5239.18,29829.58,Cancelled,2024-04-16
+Sanjay Sharma,Jaipur,416,2023-05-23,Comfort Watch,1,9172.93,30422.44,Pending,2023-05-31
+Sanjay Sharma,Jaipur,416,2023-05-23,Premium Mixer,3,7083.17,30422.44,Pending,2023-05-31
+Aditya Shetty,Bengaluru,417,2023-05-06,Premium Backpack,1,7304.11,7304.11,Delivered,2023-05-09
+Neha Mehta,Lucknow,418,2024-12-17,Eco Shoes,3,7370.83,57680.64,Pending,2024-12-24
+Neha Mehta,Lucknow,418,2024-12-17,Comfort Backpack,5,7113.63,57680.64,Pending,2024-12-24
+Kavya Ghosh,Bengaluru,419,2024-04-07,Portable Book,5,2798.89,42226.58,In Transit,2024-04-16
+Kavya Ghosh,Bengaluru,419,2024-04-07,Smart Shoes,2,8887.95,42226.58,In Transit,2024-04-16
+Kavya Ghosh,Bengaluru,419,2024-04-07,Wireless Backpack,5,583.72,42226.58,In Transit,2024-04-16
+Kavya Ghosh,Bengaluru,419,2024-04-07,Comfort Watch,1,7537.63,42226.58,In Transit,2024-04-16
+Deepak Khan,Delhi,420,2024-11-05,Pro Bottle,1,8357.79,31915.06,Cancelled,2024-11-11
+Deepak Khan,Delhi,420,2024-11-05,Ultra Mixer,5,4039.17,31915.06,Cancelled,2024-11-11
+Deepak Khan,Delhi,420,2024-11-05,Digital Shoes,2,1680.71,31915.06,Cancelled,2024-11-11
+Isha Patel,Hyderabad,421,2024-02-28,Eco Keyboard,4,6455.82,33142.13,In Transit,2024-03-03
+Isha Patel,Hyderabad,421,2024-02-28,Ultra Shoes,5,1463.77,33142.13,In Transit,2024-03-03
+Pooja Naidu,Mumbai,423,2024-10-10,Smart Lamp,1,1195.59,23349.09,Delivered,2024-10-15
+Pooja Naidu,Mumbai,423,2024-10-10,Wireless Bottle,5,4430.7,23349.09,Delivered,2024-10-15
+Meera Naidu,Pune,424,2023-02-16,Pro Book,3,9474.8,48916.32,Delivered,2023-02-21
+Meera Naidu,Pune,424,2023-02-16,Digital Bottle,2,10245.96,48916.32,Delivered,2023-02-21
+Arjun Patel,Mumbai,425,2024-03-30,Comfort Watch,5,7328.92,53047.36,Pending,2024-04-07
+Arjun Patel,Mumbai,425,2024-03-30,Eco T-Shirt,4,4100.69,53047.36,Pending,2024-04-07
+Amit Khan,Chennai,426,2024-05-11,Digital Shoes,1,1876.24,11214.54,Shipped,2024-05-19
+Amit Khan,Chennai,426,2024-05-11,Comfort Shoes,2,4669.15,11214.54,Shipped,2024-05-19
+Rahul Bhat,Kolkata,427,2024-09-19,Portable Keyboard,4,877.99,13502.16,Delivered,2024-09-24
+Rahul Bhat,Kolkata,427,2024-09-19,Portable Headphones,5,1998.04,13502.16,Delivered,2024-09-24
+Vikram Bhat,Mumbai,428,2024-03-14,Portable Backpack,4,4469.53,17878.12,Cancelled,2024-03-21
+Priya Bhat,Ahmedabad,429,2024-12-17,Smart Keyboard,2,2788.59,23331.6,Cancelled,2024-12-21
+Priya Bhat,Ahmedabad,429,2024-12-17,Ultra Watch,3,5918.14,23331.6,Cancelled,2024-12-21
+Rohan Bhat,Hyderabad,430,2024-01-30,Eco Keyboard,4,6984.19,27936.76,Pending,2024-02-01
+Amit Khan,Chennai,431,2023-07-19,Smart Shoes,2,7894.77,46138.71,Shipped,2023-07-25
+Amit Khan,Chennai,431,2023-07-19,Smart Lamp,3,1719.54,46138.71,Shipped,2023-07-25
+Amit Khan,Chennai,431,2023-07-19,Ultra Book,5,5038.11,46138.71,Shipped,2023-07-25
+Ritu Verma,Jaipur,434,2024-05-24,Smart Keyboard,4,2178.25,8713.0,Cancelled,2024-05-29
+Rahul Bhat,Mumbai,435,2024-11-20,Portable Shoes,1,7717.76,32546.15,Pending,2024-11-28
+Rahul Bhat,Mumbai,435,2024-11-20,Pro Keyboard,1,8323.74,32546.15,Pending,2024-11-28
+Rahul Bhat,Mumbai,435,2024-11-20,Pro Mixer,3,5501.55,32546.15,Pending,2024-11-28
+Meera Naidu,Pune,436,2024-04-23,Digital Keyboard,1,7085.54,18918.44,Delivered,2024-04-25
+Meera Naidu,Pune,436,2024-04-23,Ultra Mixer,3,3944.3,18918.44,Delivered,2024-04-25
+Varun Gupta,Pune,437,2024-04-01,Classic T-Shirt,3,10277.31,47031.93,Cancelled,2024-04-08
+Varun Gupta,Pune,437,2024-04-01,Comfort Watch,2,8100.0,47031.93,Cancelled,2024-04-08
+Deepak Sharma,Delhi,438,2024-11-09,Smart T-Shirt,2,5269.49,40732.62,Shipped,2024-11-19
+Deepak Sharma,Delhi,438,2024-11-09,Ultra Book,2,2470.3,40732.62,Shipped,2024-11-19
+Deepak Sharma,Delhi,438,2024-11-09,Smart Keyboard,4,6313.26,40732.62,Shipped,2024-11-19
+Neha Kulkarni,Kolkata,439,2023-09-07,Classic Headphones,4,6404.15,43345.58,Delivered,2023-09-13
+Neha Kulkarni,Kolkata,439,2023-09-07,Comfort Watch,2,8864.49,43345.58,Delivered,2023-09-13
+Neha Sharma,Lucknow,440,2024-11-06,Pro Headphones,3,4806.55,127727.42,Cancelled,2024-11-12
+Neha Sharma,Lucknow,440,2024-11-06,Wireless Lamp,5,8607.69,127727.42,Cancelled,2024-11-12
+Neha Sharma,Lucknow,440,2024-11-06,Classic T-Shirt,4,10286.94,127727.42,Cancelled,2024-11-12
+Neha Sharma,Lucknow,440,2024-11-06,Smart Mixer,4,7280.39,127727.42,Cancelled,2024-11-12
+Deepak Reddy,Lucknow,441,2024-03-21,Premium Watch,1,1342.3,1342.3,In Transit,2024-03-25
+Rahul Khan,Mumbai,442,2023-12-01,Wireless Lamp,5,7576.84,88378.92,Shipped,2023-12-08
+Rahul Khan,Mumbai,442,2023-12-01,Digital Backpack,2,4028.62,88378.92,Shipped,2023-12-08
+Rahul Khan,Mumbai,442,2023-12-01,Premium Keyboard,4,4913.05,88378.92,Shipped,2023-12-08
+Rahul Khan,Mumbai,442,2023-12-01,Digital Shoes,4,5696.32,88378.92,Shipped,2023-12-08
+Pooja Khan,Lucknow,443,2023-10-15,Classic Bottle,4,7367.46,54503.74,In Transit,2023-10-20
+Pooja Khan,Lucknow,443,2023-10-15,Premium Bottle,5,5006.78,54503.74,In Transit,2023-10-20
+Aditya Pillai,Ahmedabad,445,2024-11-17,Smart Mixer,5,6714.78,33573.9,Shipped,2024-11-23
+Aditya Bhat,Lucknow,447,2024-05-18,Portable Lamp,3,120.54,15700.23,Delivered,2024-05-28
+Aditya Bhat,Lucknow,447,2024-05-18,Eco Backpack,3,5112.87,15700.23,Delivered,2024-05-28
+Varun Gupta,Jaipur,448,2024-12-09,Classic Backpack,4,384.18,53461.13,In Transit,2024-12-17
+Varun Gupta,Jaipur,448,2024-12-09,Eco Headphones,4,7059.38,53461.13,In Transit,2024-12-17
+Varun Gupta,Jaipur,448,2024-12-09,Classic T-Shirt,3,7895.63,53461.13,In Transit,2024-12-17
+Karan Khan,Ahmedabad,449,2023-08-18,Premium Bottle,1,3658.79,40774.65,Delivered,2023-08-27
+Karan Khan,Ahmedabad,449,2023-08-18,Smart Mixer,4,8988.54,40774.65,Delivered,2023-08-27
+Karan Khan,Ahmedabad,449,2023-08-18,Portable Backpack,1,1161.7,40774.65,Delivered,2023-08-27
+Pooja Khan,Lucknow,450,2024-09-07,Comfort Keyboard,1,1564.89,4760.44,Shipped,2024-09-11
+Pooja Khan,Lucknow,450,2024-09-07,Classic Watch,5,639.11,4760.44,Shipped,2024-09-11
+Rahul Patel,Ahmedabad,451,2023-12-18,Ultra Watch,4,5660.52,22642.08,Cancelled,2023-12-26
+Ritu Khan,Lucknow,452,2024-01-26,Ultra Book,4,2476.75,49333.2,Delivered,2024-02-04
+Ritu Khan,Lucknow,452,2024-01-26,Ultra Backpack,2,2542.0,49333.2,Delivered,2024-02-04
+Ritu Khan,Lucknow,452,2024-01-26,Eco Mixer,4,8585.55,49333.2,Delivered,2024-02-04
+Arjun Yadav,Chennai,453,2024-03-23,Wireless Bottle,2,4164.37,8328.74,Delivered,2024-03-28
+Priya Bose,Hyderabad,454,2023-09-23,Smart Mixer,2,8354.9,16709.8,Cancelled,2023-09-28
+Kavya Verma,Pune,456,2023-12-15,Ultra Watch,5,5887.3,29436.5,In Transit,2023-12-19
+Vikram Verma,Bengaluru,457,2023-07-12,Eco Headphones,5,6590.21,32951.05,Delivered,2023-07-20
+Vikram Verma,Mumbai,458,2024-01-12,Digital T-Shirt,2,8539.23,17078.46,Delivered,2024-01-18
+Kavya Das,Delhi,459,2023-11-17,Ultra Backpack,4,9579.72,72044.22,Cancelled,2023-11-23
+Kavya Das,Delhi,459,2023-11-17,Classic T-Shirt,5,2922.98,72044.22,Cancelled,2023-11-23
+Kavya Das,Delhi,459,2023-11-17,Comfort Keyboard,2,9555.22,72044.22,Cancelled,2023-11-23
+Anita Ghosh,Chennai,460,2023-01-02,Comfort T-Shirt,2,2975.5,85163.46,Cancelled,2023-01-11
+Anita Ghosh,Chennai,460,2023-01-02,Ultra Headphones,5,4492.16,85163.46,Cancelled,2023-01-11
+Anita Ghosh,Chennai,460,2023-01-02,Digital T-Shirt,3,8183.54,85163.46,Cancelled,2023-01-11
+Anita Ghosh,Chennai,460,2023-01-02,Premium Book,4,8050.26,85163.46,Cancelled,2023-01-11
+Anita Iyer,Kolkata,461,2024-08-27,Comfort Book,2,7538.73,15077.46,Shipped,2024-09-05
+Rohan Naidu,Jaipur,462,2024-02-02,Portable Shoes,1,4939.49,19390.94,Delivered,2024-02-09
+Rohan Naidu,Jaipur,462,2024-02-02,Premium Shoes,5,2890.29,19390.94,Delivered,2024-02-09
+Tanvi Gupta,Pune,463,2024-01-09,Wireless Lamp,4,8366.75,112494.46,In Transit,2024-01-15
+Tanvi Gupta,Pune,463,2024-01-09,Pro Mixer,3,8185.95,112494.46,In Transit,2024-01-15
+Tanvi Gupta,Pune,463,2024-01-09,Digital Shoes,3,3898.22,112494.46,In Transit,2024-01-15
+Tanvi Gupta,Pune,463,2024-01-09,Smart Book,5,8554.99,112494.46,In Transit,2024-01-15
+Meera Naidu,Kolkata,465,2023-08-16,Comfort Watch,3,9474.61,68663.33,Pending,2023-08-18
+Meera Naidu,Kolkata,465,2023-08-16,Pro Mixer,5,3994.86,68663.33,Pending,2023-08-18
+Meera Naidu,Kolkata,465,2023-08-16,Pro Keyboard,5,4053.04,68663.33,Pending,2023-08-18
+Meera Yadav,Jaipur,466,2023-01-10,Eco Keyboard,4,6588.48,57959.57,In Transit,2023-01-14
+Meera Yadav,Jaipur,466,2023-01-10,Smart Mixer,3,8600.5,57959.57,In Transit,2023-01-14
+Meera Yadav,Jaipur,466,2023-01-10,Eco Shoes,5,1160.83,57959.57,In Transit,2023-01-14
+Kavya Das,Delhi,467,2024-04-16,Comfort Backpack,3,208.93,41777.21,Shipped,2024-04-24
+Kavya Das,Delhi,467,2024-04-16,Ultra Bottle,3,5366.0,41777.21,Shipped,2024-04-24
+Kavya Das,Delhi,467,2024-04-16,Portable Watch,5,3679.14,41777.21,Shipped,2024-04-24
+Kavya Das,Delhi,467,2024-04-16,Smart T-Shirt,1,5132.27,41777.21,Shipped,2024-04-24
+Kavya Das,Delhi,467,2024-04-16,Premium Lamp,3,508.15,41777.21,Shipped,2024-04-24
+Pooja Shetty,Hyderabad,468,2023-10-31,Portable Shoes,1,7399.7,11831.05,In Transit,2023-11-04
+Pooja Shetty,Hyderabad,468,2023-10-31,Classic Watch,1,1906.57,11831.05,In Transit,2023-11-04
+Pooja Shetty,Hyderabad,468,2023-10-31,Wireless T-Shirt,2,1262.39,11831.05,In Transit,2023-11-04
+Amit Gupta,Kolkata,469,2024-11-27,Premium Book,5,8582.89,51709.73,Delivered,2024-12-05
+Amit Gupta,Kolkata,469,2024-11-27,Eco Lamp,2,4397.64,51709.73,Delivered,2024-12-05
+Pooja Shetty,Hyderabad,471,2024-11-12,Eco Mixer,1,3575.81,3575.81,Cancelled,2024-11-16
+Aditya Sharma,Chennai,472,2023-11-24,Digital Mixer,4,4067.03,17633.76,Delivered,2023-11-28
+Aditya Sharma,Chennai,472,2023-11-24,Digital Shoes,2,682.82,17633.76,Delivered,2023-11-28
+Varun Naidu,Ahmedabad,473,2024-12-06,Portable Mixer,5,1692.44,11698.2,Cancelled,2024-12-12
+Varun Naidu,Ahmedabad,473,2024-12-06,Wireless T-Shirt,4,809.0,11698.2,Cancelled,2024-12-12
+Neha Bhat,Pune,474,2024-12-24,Eco T-Shirt,2,3599.06,7198.12,In Transit,2025-01-03
+Isha Singh,Pune,475,2024-10-08,Classic Watch,1,7930.83,36222.48,Shipped,2024-10-15
+Isha Singh,Pune,475,2024-10-08,Eco Headphones,5,5658.33,36222.48,Shipped,2024-10-15
+Neha Verma,Mumbai,476,2023-10-26,Pro Headphones,2,6335.11,12670.22,Shipped,2023-10-28
+Neha Patel,Bengaluru,478,2023-08-04,Pro Watch,2,2611.45,13208.18,In Transit,2023-08-10
+Neha Patel,Bengaluru,478,2023-08-04,Digital Mixer,2,3992.64,13208.18,In Transit,2023-08-10
+Neha Nair,Chennai,479,2023-02-23,Pro Mixer,5,962.94,31910.54,Pending,2023-03-01
+Neha Nair,Chennai,479,2023-02-23,Premium Bottle,4,6773.96,31910.54,Pending,2023-03-01
+Ritu Singh,Pune,480,2024-05-14,Classic T-Shirt,3,965.73,10037.86,Pending,2024-05-20
+Ritu Singh,Pune,480,2024-05-14,Eco Backpack,1,7140.67,10037.86,Pending,2024-05-20
+Karan Ghosh,Lucknow,481,2024-11-06,Pro Backpack,1,1871.29,47871.41,Shipped,2024-11-09
+Karan Ghosh,Lucknow,481,2024-11-06,Ultra Bottle,2,8810.94,47871.41,Shipped,2024-11-09
+Karan Ghosh,Lucknow,481,2024-11-06,Digital T-Shirt,4,7094.56,47871.41,Shipped,2024-11-09
+Sanjay Patel,Mumbai,482,2024-07-15,Classic Headphones,3,5948.97,17846.91,Delivered,2024-07-24
+Tanvi Gupta,Mumbai,483,2024-03-08,Smart Shoes,4,1366.54,50216.46,Shipped,2024-03-15
+Tanvi Gupta,Mumbai,483,2024-03-08,Ultra Backpack,5,8950.06,50216.46,Shipped,2024-03-15
+Vikram Bhat,Mumbai,484,2024-02-05,Digital Backpack,1,1782.46,30798.22,Pending,2024-02-14
+Vikram Bhat,Mumbai,484,2024-02-05,Wireless Lamp,1,8840.68,30798.22,Pending,2024-02-14
+Vikram Bhat,Mumbai,484,2024-02-05,Pro Keyboard,2,9548.08,30798.22,Pending,2024-02-14
+Vikram Bhat,Mumbai,484,2024-02-05,Wireless Mixer,2,539.46,30798.22,Pending,2024-02-14
+Sneha Mehta,Kolkata,485,2024-06-24,Wireless Mixer,4,1860.98,7443.92,Cancelled,2024-06-29
+Pooja Verma,Mumbai,486,2024-12-14,Wireless T-Shirt,4,6018.62,24074.48,In Transit,2024-12-20
+Neha Nair,Chennai,487,2024-07-15,Classic Headphones,2,6106.91,12213.82,In Transit,2024-07-22
+Pooja Bose,Mumbai,488,2023-05-15,Premium Headphones,5,3357.83,34816.21,In Transit,2023-05-20
+Pooja Bose,Mumbai,488,2023-05-15,Wireless Bottle,4,300.49,34816.21,In Transit,2023-05-20
+Pooja Bose,Mumbai,488,2023-05-15,Pro Shoes,5,1341.28,34816.21,In Transit,2023-05-20
+Pooja Bose,Mumbai,488,2023-05-15,Pro Mixer,5,2023.74,34816.21,In Transit,2023-05-20
+Karan Das,Hyderabad,490,2024-12-27,Classic Watch,3,9353.29,28059.87,Delivered,2025-01-03
+Vikram Naidu,Hyderabad,491,2024-11-01,Digital Bottle,1,1421.13,34906.82,Delivered,2024-11-05
+Vikram Naidu,Hyderabad,491,2024-11-01,Premium Bottle,1,5857.17,34906.82,Delivered,2024-11-05
+Vikram Naidu,Hyderabad,491,2024-11-01,Digital Headphones,2,8564.4,34906.82,Delivered,2024-11-05
+Vikram Naidu,Hyderabad,491,2024-11-01,Smart Headphones,4,2624.93,34906.82,Delivered,2024-11-05
+Anita Ghosh,Chennai,492,2023-05-21,Premium Headphones,4,8205.93,53674.84,Pending,2023-05-29
+Anita Ghosh,Chennai,492,2023-05-21,Premium Keyboard,4,5212.78,53674.84,Pending,2023-05-29
+Pooja Nair,Hyderabad,495,2023-07-20,Pro Book,5,8530.85,83274.6,Pending,2023-07-28
+Pooja Nair,Hyderabad,495,2023-07-20,Pro Mixer,5,8124.07,83274.6,Pending,2023-07-28
+Sneha Nair,Kolkata,496,2024-08-12,Pro Headphones,2,7067.11,23037.14,In Transit,2024-08-19
+Sneha Nair,Kolkata,496,2024-08-12,Eco Shoes,1,8902.92,23037.14,In Transit,2024-08-19
+Arjun Patel,Mumbai,497,2023-06-01,Digital Shoes,1,1293.53,65111.02,In Transit,2023-06-09
+Arjun Patel,Mumbai,497,2023-06-01,Pro Book,5,6829.29,65111.02,In Transit,2023-06-09
+Arjun Patel,Mumbai,497,2023-06-01,Wireless Watch,4,6602.73,65111.02,In Transit,2023-06-09
+Arjun Patel,Mumbai,497,2023-06-01,Digital Backpack,2,1630.06,65111.02,In Transit,2023-06-09
+Neha Gupta,Pune,498,2024-03-13,Portable Lamp,2,6091.29,67460.69,In Transit,2024-03-22
+Neha Gupta,Pune,498,2024-03-13,Digital Shoes,3,3806.53,67460.69,In Transit,2024-03-22
+Neha Gupta,Pune,498,2024-03-13,Ultra Mixer,5,4021.45,67460.69,In Transit,2024-03-22
+Neha Gupta,Pune,498,2024-03-13,Eco Keyboard,1,3678.49,67460.69,In Transit,2024-03-22
+Neha Gupta,Pune,498,2024-03-13,Wireless Headphones,2,1995.2,67460.69,In Transit,2024-03-22
+Neha Gupta,Pune,498,2024-03-13,Portable Backpack,2,8041.19,67460.69,In Transit,2024-03-22
+Rahul Patel,Jaipur,499,2023-02-27,Pro T-Shirt,5,2964.82,14824.1,In Transit,2023-03-05
