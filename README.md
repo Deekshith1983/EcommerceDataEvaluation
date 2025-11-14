@@ -63,7 +63,7 @@ Created 5 CSV files with realistic Indian e-commerce data using **GitHub Copilot
 
 - Wrote SQL query joining all 5 tables using INNER JOIN
 - Generated final report with 10 columns
-- Exported results to `ecommerce_report.csv`
+- Displays the output
 
 **Output**:
 - 1,000 total records
