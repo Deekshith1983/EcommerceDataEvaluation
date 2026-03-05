@@ -178,9 +178,11 @@ st.divider()
 # RECENT ORDERS TABLE
 st.subheader("Recent Orders")
 
-recent = df.nlargest(
-    10, "order_date"
-)[
+df["order_date"] = pd.to_datetime(df["order_date"])
+
+recent = df.sort_values(
+    "order_date", ascending=False
+).head(10)[
     [
         "customer_name",
         "city",
